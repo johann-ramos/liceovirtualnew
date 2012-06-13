@@ -17,6 +17,7 @@ $CFG->dboptions = array (
 );
 
 $CFG->wwwroot   = 'http://www.liceovirtualnew.com';
+//Para la version en el servidor
 //$CFG->wwwroot   = 'http://thesun.dyndns-server.com/liceovirtualnew';
 $CFG->dataroot  = '/home/johann/moodledata/moodledata-liceovirtualnew';
 $CFG->admin     = 'admin';
