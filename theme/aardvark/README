@@ -1,0 +1,22 @@
+Aardvark 2.2 for Moodle
+
+UPDATES
+-----------------------
+
+CORE
+- Change between fixed width (960px) and fluid/variable width (100%)
+- Set background as centred, fixed or tiled
+- Autohide for edit mode from Rocket theme now included
+
+PROFILE BAR / HEADER
+- Profile and header merged to create a twitter-style super bar
+- Menu items only appear when logged in
+- Icons updated
+- Email icon only appears when set in Aardvark theme settings
+
+BLOCKS
+- Cleaner look to side blocks
+- Today now shows highlighted in mini calendar
+
+FOOTER
+- Add copyright, disclaimer and social icons in Aardvark theme settings

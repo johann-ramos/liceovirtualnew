@@ -1,0 +1,504 @@
+html,
+body {
+	
+	
+	overflow-x: hidden;	
+	background:#e7e7e7;
+}
+
+
+#page-wrapper {
+	
+	background: #fafafa;
+	width: 100%;
+	
+}
+
+#page {
+background: #fafafa;
+
+	
+}
+
+.ie7 #page {
+
+float:left;
+clear: both;
+background: #fafafa;
+width: 100%;
+
+
+
+}
+
+/* Header */
+
+#page-header {
+	background: #ffffff;
+	color: #fff;	
+	height: 95px;
+	
+	
+}
+
+
+
+#page-header a:link,
+#page-header a:visited {
+	color: #555555;
+}
+#page-header a:hover {
+	color: #2970A6;
+}
+
+#page-header h1.headermain {
+	color: #fff;
+	font-weight: normal;
+	margin: 1em;
+	font-size: 2em;
+}
+
+.pagelayout-frontpage #page-header h1.headermain {
+	font-size: 2.75em;
+}
+
+div.headerlogo {
+
+position: absolute;
+top: 5px;
+left: 8px;
+}
+
+.headermenu div.logininfo {
+
+position: absolute;
+top: 15px;
+right: 25px;
+color: #000;
+}
+
+
+/* Navbar */
+
+.navbar {
+	padding: 5px;
+	font-size: 0.95em;
+	color: #333;
+	background:#EAF2FB;
+	
+}
+
+.navbar .sep {
+	color: #999;
+}
+
+/** Page Content **/ 
+
+#page-content 
+{
+
+width: 100%;
+float:left;
+background: #FAFAFA; 
+border-top: 2px solid #EAF2FB;
+}
+
+#page-main{
+width: 95%;
+margin-left: 2%;
+margin-right: 2%;
+padding: 8px 0; 
+}
+
+
+
+/**moodle dropdown css for yui menu **/
+
+.yui3-skin-sam  #custommenu .yui3-menu-horizontal .yui3-menu-content ,
+.yui3-skin-sam  #custommenu .yui3-menu-horizontal .yui3-menu-label
+
+{background: #84B7D0;
+}
+
+
+.yui3-skin-sam  #custommenu .yui3-menu-horizontal .yui3-menu-label, .yui3-skin-sam  #custommenu .yui3-menu-horizontal .yui3-menuitem-content {
+
+border-width: 0;
+margin: 0;
+}
+
+#custommenu {
+	font-size: 13px;
+	font-weight: 600;
+	height: 34px;
+	background: #84B7D0;
+padding-right: 20px;	
+}
+
+div.yui3-menu.yui3-menu-horizontal {
+	
+	border-right: none;
+	border-left: none;
+	float: right;
+	
+	
+}
+
+div.yui3-menu.yui3-menu-horizontal a:link, div.yui3-menu.yui3-menu-horizontal a:visited {
+
+color: #69804e;
+
+
+}
+
+div.yui3-menu.yui3-menu-horizontal a:hover {
+
+color: black;
+
+
+}
+
+div.yui3-menu-content {
+	border: none !important;
+	
+}
+
+.yui3-skin-sam  #custommenu  .yui3-menu-horizontal .yui3-menu-content li a:link,  .yui3-skin-sam  #custommenu  .yui3-menu-horizontal .yui3-menu-content li a:visited{
+    display: block;
+	font-size: 12px;
+	text-transform: capitalize;
+    padding: 5px 10px;	
+	cursor: pointer;
+	border-right: none !important;
+	border-top: none !important;
+	border-bottom: none !important;
+	border-left: 1px solid #dadada;
+	color: #303030;	
+}
+
+.yui3-skin-sam  #custommenu  .yui3-menu-horizontal .yui3-menu-content li a:hover {
+
+background: #54BE75;
+}
+
+
+
+.yui3-menu-horizontal .yui3-menu-label {
+	padding-left: 16px !important;
+	
+	}
+
+.yui3-menu-horizontal .yui3-menu-label-menuvisible {
+	background-position: 5px -23px !important;
+}
+
+.yui3-menu-content li {
+	
+	border-top: none !important;
+}
+
+.yui3-menu-content li:hover {
+	background: #7E9EAF;
+	
+}
+
+
+
+div.yui3-menu.custom_menu_submenu {
+	background: url([[pix:theme|yuiarrow]]) no-repeat 40px 0;
+	border: none;
+	min-width: 100px;
+	z-index: 99998;
+}
+
+div.yui3-menu.custom_menu_submenu div.yui3-menu.custom_menu_submenu {
+	background: none !important;
+	min-width: 100px;
+}
+
+div.yui3-menu.custom_menu_submenu div.yui3-menu-content {
+	background: #fff;
+	z-index: 99999;
+	min-width: 200px;
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+	margin: 5px 0px 0px -70px;
+}
+
+/** below style to move sub subs to the left to keep from going off the page **/
+
+div.yui3-menu.custom_menu_submenu div.yui3-menu-content div.yui3-menu.custom_menu_submenu div.yui3-menu-content {
+	margin-left: -400px !important;
+	/** double the width of the menu item **/
+	position: absolute;
+	top: -15px;
+}
+
+div.yui3-menu.custom_menu_submenu .yui3-menu-content li {
+	border-left: none;
+}
+
+div.yui3-menu.custom_menu_submenu .yui3-menu-content li a {
+	font-size: 11px;
+	border-bottom: 1px solid #cccccc !important;
+	border-top: 0px solid #fff !important;
+	text-transform: none;
+	background: #D2E4EE !important;
+	text-decoration: none !important;
+	text-transform: capitalize;
+}
+
+div.yui3-menu.custom_menu_submenu .yui3-menu-content li a:hover {
+	background: #54BE75 !important;
+	cursor: pointer;
+	color: black !important;
+	text-decoration: none !important;
+}
+
+div.yui3-menu.custom_menu_submenu li a.yui3-menu-label {
+	background: #D2E4EE url([[pix:theme|arrowlef]]) no-repeat 1% 52% !important;
+}
+
+
+/* Sideblock */
+
+.block {
+	border: none;
+}
+
+.block .header {
+	background: url([[pix:theme|menu]]);
+	padding: 4px 2px 2px 8px;
+}
+
+.block .header h2 {
+	color: #F6F9FB;
+	font-size: 1.1em;
+	line-height: 1;
+}
+
+.block .content {
+	background: #E0F3EC;
+
+	border-color: #69804e;
+	
+	padding: 5px 10px;
+}
+
+.block_js_expansion .block_tree {
+	overflow: auto;
+}
+
+.block_recent_activity h2,main,
+.block_recent_activity h3.main {
+	font-size: 1em;
+	margin: 0.5em 0;
+}
+
+.block_calendar_month .content h3.eventskey {
+	font-size: 1em;
+	margin: 0.25em 0;
+}
+
+td.eventskey {
+	padding: 0 5px 3px;
+}
+
+.minicalendar td,
+.minicalendar th {
+    border-color: #DCF1E9;
+}
+
+.block_comments textarea {
+	width: 95%;
+	margin-bottom: 1em;
+}
+
+.block_comments .comment-area a {
+	background: #fff;
+	padding: 5px;
+	border: 1px solid #e5e5e5;
+}
+
+.comment-delete-confirm {
+	background: #fff;
+}
+
+.block_messages .content {
+	font-size: 0.95em;
+}
+
+.block_messages .footer {
+	text-align: center;
+}
+
+/* Course */
+
+h2.headingblock {
+	font-weight: normal;
+}
+
+.coursebox {
+	border-bottom: 1px solid #eee;
+}
+
+.coursebox .info {
+	width: 33%;
+}
+
+.coursebox .summary {
+	width: 63%;
+}
+
+.coursebox h3.name {
+	margin: 0;
+	font-size: 1.1em;
+	line-height: 1.4;
+	padding-left: 8px;
+}
+
+.coursebox .info .teachers {
+	margin-left: 0.6em;
+	font-size: 0.95em;
+}
+
+.categorybox {
+	border: none;
+}
+
+h2.headingblock {
+	border-bottom: 1px solid #eee;
+	font-size: 1.3em;
+	color: #92B6D0;
+}
+
+#page-course-category .categorypicker {
+	text-align: center;
+	margin: 10px 0 20px;
+}
+
+.path-course-view .course-content li.section {
+	border: 1px solid #e5e5e5;
+}
+
+.path-course-view .course-content .side {
+	padding: 5px 0;
+}
+
+#page-course-view-weeks .weekdates {
+	font-size: 1em;
+	font-weight: normal;
+	color: #777;
+	padding: 2px;
+}
+
+.course-content .main {
+  background:#f3f8ed;
+ }
+
+
+ 
+ .course-content .current  {
+ background:#E3E3E3;
+ color: #aaa;
+ }
+ 
+.course-content .main .content {
+	padding: 10px;
+	
+}
+
+
+/* Footer */
+
+#page-footer {
+	border-top: 4px solid #ccc;	
+	background: #e7e7e7;
+}
+
+#page-footer a {
+	color: #555555;
+}
+
+#page-footer a:hover {
+	color: #2970A6;
+}
+
+#page-footer .logininfo {
+	float: left;
+	padding: 5px;
+	margin: 0 0 0 40%;
+	margin-top: 10px;
+}
+
+
+#page-footer .helplink {
+	float: right;
+	padding: 5px;
+	margin: 0;
+}
+
+#page-footer-bottom {
+
+clear:both;
+width: 100%;
+text-align: center;
+
+
+
+}
+
+#page-footer-bottom .homelink  a{
+color: #69804e;
+text-decoration: none;
+border: none;
+
+}
+
+#page-footer-bottom .homelink  a:hover{
+color: #000000;
+text-decoration:underline;
+}
+
+#page-footer-bottom .sitelink {
+	float:left;
+	padding: 0 0 6px 5px;
+	font-size: 11px;
+}
+
+.delink {
+float: right;
+font-size: 10px;
+padding: 0 5px 6px 0;
+
+
+}
+
+
+
+.delink a:hover{
+color: #2970A6;
+
+}
+
+.performanceinfo span {
+	display: block;
+}
+
+.validators {
+	margin-top: 40px;
+	padding-top: 5px;
+	border-top: 1px dotted gray;
+}
+
+.validators ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+.validators ul li {
+	display: inline;
+	margin-right: 10px;
+	margin-left: 10px;
+}

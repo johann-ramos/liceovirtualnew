@@ -1,0 +1,13 @@
+.headingcontainer .headingimage {float:left;margin-right:0.7em; padding: 0.35em 0;}
+.headingcontainer h2,
+.headingcontainer h3,
+.headingcontainer h4,
+.headingcontainer h5,
+.headingcontainer h6 {text-align:left;}
+
+.ie7.headingcontainer h3.weekdates {   
+margin: 0;
+padding: 0;
+
+}
+

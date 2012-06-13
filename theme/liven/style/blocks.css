@@ -1,0 +1,84 @@
+.block {
+	border: 0px solid #bcbdbd;
+}
+
+#region-pre .block {
+	width: 240px;
+	margin-bottom: 25px;
+}
+
+.block .header {
+	border: 1px solid #bcbdbd;
+	background: #edefef url([[pix:theme|btop]]) repeat-x top left;
+	padding: 8px 10px;
+	
+	border-radius: 3px 3px 0px 0px;
+	box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.15);
+}
+
+.block.hidden .header {
+	border-radius: 3px 3px 3px 3px;
+}
+
+.block .title {
+
+}
+
+/* block titles */
+.block .title h2 {
+	font-size: 14px;
+	font-weight: 500;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: [[setting:headercolor]];
+	text-shadow: 0px -1px 1px #fff;
+}
+
+.block .content {
+	padding: 5px 15px 10px;
+	background: #fff;
+	border: 1px solid #bcbdbd;
+	border-top: 0px;
+	border-radius: 0px 0px 3px 3px;
+	
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+/** some specific block styles for calendar block, login block, my profile block, etc. **/
+
+.block_calendar_month table.minicalendar.calendartable td,.block_calendar_month table.minicalendar.calendartable th {
+    border: none !important;
+}
+
+.block_calendar_month table.minicalendar {
+    margin-bottom: 0px !important;
+}
+
+.block_calendar_month table.minicalendar.calendartable th abbr {
+    border: none !important;
+    text-decoration: none;
+}
+
+.block_comments div.content li {
+    list-style-type: none;
+}
+
+.questionbankwindow.block {
+	padding: 0px;
+}
+
+.block_tree_box hr {
+	background: transparent;
+	border: none;
+	border-top: 1px solid #eee;
+}
+
+/*quiz editing block header */
+#page-mod-quiz-edit .questionbankwindow div.header {
+	background-color: #eee;
+	color: inherit;
+}
+
+#page-mod-quiz-edit .questionbankwindow div.header a {
+	color: inherit;
+}

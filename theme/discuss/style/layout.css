@@ -1,0 +1,376 @@
+/*
+* Body
+*/
+
+html {
+	height: 100%;
+	background: none repeat scroll 0 0 #717883;
+	color: #FBFCFD;
+}
+
+body {
+	min-height: 100%;
+	margin: 0;
+	padding: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page {
+	min-width: 900px;
+	font-family: "Helvetica Neue",arial;
+}
+
+#page-content-wrapper {
+	background: none repeat scroll 0 0 #E5E9ED;
+	width: auto;
+	padding: 50px 40px 50px 35px;
+	border-top: 1px solid #FFFFFF;
+	margin-bottom: 10px;
+}
+
+#page-content {
+	background: none repeat scroll 0 0 transparent;
+	color: #1D3142;
+	width: 100%;
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1140px;
+	min-width: inherit;
+	padding: 3px;
+	font-family: "Helvetica Neue",arial;
+}
+
+/*
+* Header
+*/
+
+/* Custom Menu */
+
+#custommenu-wrapper {
+	background: none repeat scroll 0 0 #234B6F;
+	border-bottom: 1px solid #1D3142;
+}
+
+#custommenu {
+
+	color: #FBFCFD;
+	float: none;
+	clear: none;
+	padding-left: 10px;
+	max-width: 1120px;
+	margin-left: auto;
+	margin-right: auto;
+	background: none repeat scroll 0 0 transparent;
+	padding: 0 10px;
+}
+
+.yui3-skin-sam .yui3-menu-content, .yui3-skin-sam .yui3-menu .yui3-menu .yui3-menu-content {
+	border: 0;
+	font-size: 93%;
+}
+
+.yui3-skin-sam .yui3-menu-horizontal .yui3-menu-label, .yui3-skin-sam .yui3-menu-horizontal .yui3-menuitem-content {
+	float: none;
+	margin: 0;
+	padding: 0;
+	width: auto;
+	border: 0;
+}
+
+/* Page Header */
+
+#page-header-wrapper {
+	background: none repeat scroll 0 0 #4E7BA3;
+	border-bottom: 1px solid #427EB4;
+	border-top: 1px solid #6C9CC7;
+}
+
+#page-header {
+	background: none repeat scroll 0 0 transparent;
+	float: none;
+	clear: none;
+	max-width: 1140px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Navbar */
+
+#navbar-wrapper {
+
+	margin-bottom: -1px;
+	background: none repeat scroll 0 0 red;
+	clear: both;
+	background: none repeat scroll 0 0 #FBFCFD;
+	border-bottom: 1px solid #E5E9ED;
+	border-top: 1px solid #0A5E91;
+}
+
+.navbar {
+	padding: 4px 10px 4px 10px;
+	color: #717883;
+	margin-left: auto;
+	margin-right:auto;
+	max-width: 1120px;
+	clear: none;
+}
+
+/*
+* Main Content
+*/
+
+/* Side Pre Only */
+
+.side-pre-only hr {
+	margin-right: 1px;
+}
+
+.side-pre-only #page-content #region-pre {
+	left: -4px;
+}
+
+.side-pre-only #page-content #region-main {
+  margin-left: 197px;
+}
+
+#page-mod-forum-index .subscription, #page-mod-forum-view .subscription {
+	padding-right:4px;
+}
+
+.side-pre-only #region-main .region-content h2.main {
+	padding-left: 10px;	
+}
+
+.side-pre-only #region-main .region-content .headingblock {
+        margin-right: 1px;
+}
+
+.side-pre-only #region-pre .region-content {
+	padding: 4px;
+}
+
+/* Side Post Only */
+
+.side-post-only #page-content #region-main {
+	margin-left: 197px;
+}
+
+/* Content Only */
+
+.content-only #page-content #region-main {
+	padding: 0;
+	margin-left: -3px; 
+}
+
+.content-only #page-content-wrapper {
+	margin-bottom: 0;
+}
+
+/* Side Pre and Side Post */
+
+#page-content #region-pre {
+	left: 196px;
+}
+
+#region-pre .region-content {
+
+	border: 1px solid #FBFCFD;
+}
+
+#region-pre {
+	background: none repeat scroll #f2f5f7;
+	border: 1px solid #d2d9e0;
+}
+
+#page-content #region-post-box {
+	background: none repeat scroll 0 0 #E5E9ED;
+	border-left: 1px solid #d2d9e0;
+}
+
+#region-post-box {
+	padding-left: 1px;
+	margin-bottom: -1px;
+	margin-top: -1px;
+}
+
+#region-post {
+	background: none repeat scroll #f2f5f7;
+	border: 1px solid #d2d9e0;
+	margin-left: -2px;
+
+}
+
+#region-post .region-content {
+
+	border: 1px solid #FBFCFD;
+}
+
+#page-content #region-main-box {
+	background: none repeat scroll 0 0 #FBFCFD;
+	border-top: 1px solid #D2D0E0;
+	border-bottom: 1px solid #D2D0E0;
+	border-left: 1px solid #D2D0E0;
+}
+
+#page-content #region-main {
+	background: none repeat scroll 0 0 transparent;
+	margin-top: 1px;
+	margin-left: 397px;
+	margin-right: 1px;
+	padding: 0;
+}
+
+#page-content #region-main .region-content div.user-content br {
+	display: none;
+}
+
+#region-main .region-content {
+	padding: 0;
+	margin-top: -1px;
+}
+
+body#page-content #region-main .generalbox {
+	margin: 10px;
+}
+
+#region-main .region-content select {
+	margin: 2px 0;
+}
+
+#region-main .region-content .block .header h2, #region-main .region-content .headingblock {
+	margin: 1em 0;
+	padding-top: 10px;
+	padding-left: 10px;
+	font-weight: normal;
+}
+
+#page-content .region-content {
+	padding: 0;
+}
+
+#page-site-index #page-content #region-main .forumpost .maincontent .left {
+	width: 0px;
+}
+
+/* Report */
+
+.pagelayout-report #page-content {
+	background-color: #FBFCFD;
+	border: 1px solid #D2D9E0;
+	padding: 0;
+}
+
+.pagelayout-report #report-main-content .region-content {
+	padding: 3px;
+}
+
+.pagelayout-report #report-region-pre {
+	background: none repeat scroll 0 0 #F2F5F7;
+	border-right: 1px solid #D2D9E0;
+	margin-top: -3px;
+}
+
+
+/* Blocks */
+
+
+.block-region .commands {
+	padding-left: 4px;
+}
+
+.block select {
+	width: 169px;
+}
+
+.block #adminsearchquery {
+	width: 125px;
+}
+
+.block {
+	border: 0;
+	margin: 0 0 10px 0;
+}
+
+.block .header .block_action input {
+	margin-left: 2px;
+}
+
+
+.block .generalbox {
+	padding: 3px 1px;
+}
+
+.block .header h2 {
+	font-size: 20px;
+}
+
+.block .name {
+	font-size: 12px;
+}
+
+/*
+* Footer
+*/
+
+#page-footer {
+	font-weight: normal;
+	font-size: 14px;
+	color: #2F2F2F;
+	padding-bottom: 20px;
+}
+
+#page-footer .loginfino, #page-footer .sitelink, #page-footer .helplink {
+	margin: 10px;
+}
+
+/*
+* Dock
+*/
+
+#dock {
+	background: none repeat scroll 0 0 #E5E9ED;
+	border-top: 0;
+	border-bottom: 0;
+	border-left: 0;
+	border-right: 1px solid #D2D9E0;
+	color: #1D3142;
+}
+
+#dock .dockedtitle {
+	border-bottom: 1px solid #D2D9E0;
+	border-top: 1px solid #FBFCFD;
+	background-color: #FFFFFF;
+}
+
+#dock .dockedtitle h2 {
+	border: 0;
+	padding: 0;
+	margin-left: 5px;
+}
+
+#dock .controls {
+	bottom: 0;
+	background: none repeat scroll 0 0 #FFFFFF;
+	border-top: 1px solid #D2D9E0;
+	padding: 2px 0 1px 0;
+}
+
+#dockeditempanel {
+	border: 0 none;
+}
+
+#dockeditempanel .dockeditempanel_content {
+	border: 1px solid #D2D9E0;
+	background-color: #FBFCFD;
+}
+
+#dockeditempanel .dockeditempanel_hd {
+	border: 0 none;
+}
+
+#dockeditempanel .dockeditempanel_hd h2 {
+	padding-left: 1em;
+	padding-right: 1em;
+}
