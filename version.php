@@ -1,4 +1,5 @@
 <?php
+/*Comentarios de prueba*/
 defined('MOODLE_INTERNAL') || die();
 
 
