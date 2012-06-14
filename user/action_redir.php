@@ -44,5 +44,5 @@ if (array_search($formaction, $actions) === false) {
 if (!confirm_sesskey()) {
     print_error('confirmsesskeybad');
 }
-
 require_once($formaction);
+
