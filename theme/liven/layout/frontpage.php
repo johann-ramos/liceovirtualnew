@@ -123,5 +123,7 @@ echo $OUTPUT->standard_footer_html();
 </div><!-- end #page -->	
 
 <?php echo $OUTPUT->standard_end_of_body_html() ?>
+<!-- Thalentia moodle bar -->
+<?php include('thalentia_moodlebar/thalentia_moodlebar.php'); ?>
 </body>
 </html>
