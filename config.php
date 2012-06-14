@@ -16,10 +16,13 @@ $CFG->dboptions = array (
   'dbsocket' => 0,
 );
 
+//Venus
 $CFG->wwwroot   = 'http://www.liceovirtualnew.com';
-//Para la version en el servidor
-//$CFG->wwwroot   = 'http://thesun.dyndns-server.com/liceovirtualnew';
 $CFG->dataroot  = '/home/johann/moodledata/moodledata-liceovirtualnew';
+//Mercury
+//$CFG->wwwroot   = 'http://thesun.dyndns-server.com/liceovirtualnew';
+//$CFG->dataroot  = '/home/www-safe/moodledata/moodledata-liceovirtualnew';
+
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
