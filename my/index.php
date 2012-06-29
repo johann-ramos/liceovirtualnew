@@ -145,6 +145,40 @@ if ($currentpage->userid == 0) {
 
 echo $OUTPUT->header();
 
+?>
+<div id="twtl" align="center">
+<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 30000,
+  width: 650,
+  height: 100,
+  theme: {
+    shell: {
+      background: '#03426a',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#000000',
+      links: '#03426a'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: true,
+    behavior: 'all'
+  }
+}).render().setUser('LiceoVirtualCL').start();
+</script>
+&nbsp;
+</div>
+<?php
+
 echo $OUTPUT->blocks_for_region('content');
 
 echo $OUTPUT->footer();
