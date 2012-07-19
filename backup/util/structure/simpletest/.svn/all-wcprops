@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/simpletest
+END
+testbasenestedelement.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/simpletest/testbasenestedelement.php
+END
+testbackupstructures.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/simpletest/testbackupstructures.php
+END
+testbaseatom.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/simpletest/testbaseatom.php
+END
+testbaseattribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/simpletest/testbaseattribute.php
+END
+testbasefinalelement.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/simpletest/testbasefinalelement.php
+END
+testbaseoptigroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/simpletest/testbaseoptigroup.php
+END

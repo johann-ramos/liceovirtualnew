@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/lib/adodb/perf
+END
+perf-mssql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/liceovirtualnew/!svn/ver/1/lib/adodb/perf/perf-mssql.inc.php
+END
+perf-oci8.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/adodb/perf/perf-oci8.inc.php
+END
+perf-mysql.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/liceovirtualnew/!svn/ver/1/lib/adodb/perf/perf-mysql.inc.php
+END
+perf-mssqlnative.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/lib/adodb/perf/perf-mssqlnative.inc.php
+END
+perf-postgres.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/lib/adodb/perf/perf-postgres.inc.php
+END
+perf-db2.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/lib/adodb/perf/perf-db2.inc.php
+END
+perf-informix.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/lib/adodb/perf/perf-informix.inc.php
+END

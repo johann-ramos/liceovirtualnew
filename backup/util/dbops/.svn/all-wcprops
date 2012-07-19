@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/backup/util/dbops
+END
+backup_question_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/liceovirtualnew/!svn/ver/1/backup/util/dbops/backup_question_dbops.class.php
+END
+backup_plan_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/liceovirtualnew/!svn/ver/1/backup/util/dbops/backup_plan_dbops.class.php
+END
+restore_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/liceovirtualnew/!svn/ver/1/backup/util/dbops/restore_dbops.class.php
+END
+backup_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/liceovirtualnew/!svn/ver/1/backup/util/dbops/backup_dbops.class.php
+END
+backup_structure_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/liceovirtualnew/!svn/ver/1/backup/util/dbops/backup_structure_dbops.class.php
+END
+restore_controller_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/liceovirtualnew/!svn/ver/1/backup/util/dbops/restore_controller_dbops.class.php
+END
+backup_controller_dbops.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/liceovirtualnew/!svn/ver/1/backup/util/dbops/backup_controller_dbops.class.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/lib/yui/3.2.0/build/compat
+END
+compat.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/lib/yui/3.2.0/build/compat/compat.js
+END
+compat-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/liceovirtualnew/!svn/ver/1/lib/yui/3.2.0/build/compat/compat-min.js
+END
+compat-debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/liceovirtualnew/!svn/ver/1/lib/yui/3.2.0/build/compat/compat-debug.js
+END

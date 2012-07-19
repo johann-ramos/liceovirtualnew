@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/liceovirtualnew/!svn/ver/1/backup
+END
+restorefile.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/backup/restorefile.php
+END
+restore.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/backup/restore.php
+END
+backup.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/backup/backup.php
+END
+backup_scheduled.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/backup/backup_scheduled.php
+END
+restorefile_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/backup/restorefile_form.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/backup/lib.php
+END
+backup.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/backup/backup.class.php
+END
+restorelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/backup/restorelib.php
+END
+import.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/backup/import.php
+END
+backuplib.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/backup/backuplib.php
+END
+backupfilesedit.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/backup/backupfilesedit.php
+END
+backupfilesedit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/backup/backupfilesedit_form.php
+END
+log.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/backup/log.php
+END

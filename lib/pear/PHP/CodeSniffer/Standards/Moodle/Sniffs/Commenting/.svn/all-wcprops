@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/Commenting
+END
+ClassCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/Commenting/ClassCommentSniff.php
+END
+FunctionCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/Commenting/FunctionCommentSniff.php
+END
+InlineCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/Commenting/InlineCommentSniff.php
+END
+FileCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/Commenting/FileCommentSniff.php
+END

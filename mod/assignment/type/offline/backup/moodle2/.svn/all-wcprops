@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/type/offline/backup/moodle2
+END
+restore_assignment_offline_subplugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/type/offline/backup/moodle2/restore_assignment_offline_subplugin.class.php
+END
+backup_assignment_offline_subplugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/type/offline/backup/moodle2/backup_assignment_offline_subplugin.class.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/mod/survey/backup/moodle2
+END
+restore_survey_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/liceovirtualnew/!svn/ver/1/mod/survey/backup/moodle2/restore_survey_activity_task.class.php
+END
+backup_survey_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/liceovirtualnew/!svn/ver/1/mod/survey/backup/moodle2/backup_survey_activity_task.class.php
+END
+restore_survey_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/liceovirtualnew/!svn/ver/1/mod/survey/backup/moodle2/restore_survey_stepslib.php
+END
+backup_survey_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/liceovirtualnew/!svn/ver/1/mod/survey/backup/moodle2/backup_survey_stepslib.php
+END

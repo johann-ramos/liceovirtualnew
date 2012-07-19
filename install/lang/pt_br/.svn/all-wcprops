@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/install/lang/pt_br
+END
+langconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/liceovirtualnew/!svn/ver/1/install/lang/pt_br/langconfig.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/install/lang/pt_br/admin.php
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/install/lang/pt_br/error.php
+END
+moodle.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/install/lang/pt_br/moodle.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/liceovirtualnew/!svn/ver/1/install/lang/pt_br/install.php
+END

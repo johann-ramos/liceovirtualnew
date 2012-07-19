@@ -1,0 +1,595 @@
+html,body {
+	margin: 0;
+	padding: 0;
+	background: #fafafa url([[pix:theme|bg2]]);
+	box-shadow: 0 -40px 40px 0 rgba(0, 0, 0, 0.04) inset;
+	color: #000;
+}
+
+html,body,h1,h2,h3,h4,h5,h6,p,ul,ol,dl,input,textarea {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+/* background: #f1eee7 url([[pix:theme|bkg]]) no-repeat 100% 0; */
+
+/*link colors */
+a:link,
+a:visited, .tabtree .tabrow0 li a  {
+    color: [[setting:linkcolor]];
+    text-decoration: none;
+}
+
+a:hover,
+a:active {
+    color: [[setting:linkhover]];
+    text-decoration: none;
+}
+
+a:active {
+    outline: 0;
+
+/* for browsers that understand */
+}
+
+a:focus {
+    outline: 0;
+
+/* for browsers that understand */
+}
+
+/* real main headings */
+.headingblock, .sitetopic h2 {
+  color: #000;
+  border-bottom: 1px solid #eee;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+/*outercontainer */
+#wrapper {
+	clear: both;
+}
+
+/*outer container around moodle content, set padding here for moodle content if necessary */
+#page-content-wrapper {
+	width: 90%;
+	min-width: 960px;
+	margin: 0 auto;
+}
+
+#page-content {
+	float: none;
+	width: auto;
+}
+
+.clearer {
+	clear: both;
+}
+
+/* header, get rid of the float from base theme */
+#page-header {
+	float: none;
+	width: auto;
+	height: 52px;
+	min-width: 960px;
+	background: [[setting:headercolor]];
+	border-bottom: 1px solid #fff;
+}
+
+#page-header-inner {
+	height: 52px;
+	width: 90%;
+	min-width: 960px;
+	margin: 0 auto;
+}
+
+/*logo if any*/
+#logo {
+	float: left;
+	margin-top: 3px;
+	max-height: 45px;
+}
+
+/* Navbar */
+
+.navbar {
+  border: none;
+  margin:0;
+  padding:5px 0px 0px;
+  border-width: 1px 0;
+  margin-top: 0px;
+  clear: both;
+  font-size: 90%;
+  text-shadow: 1px 1px 1px white;
+}
+
+.breadcrumb {
+	padding: 5px 0px;
+}
+
+.navbar .sep {
+   font-size: .8em;
+   color: #ccc;
+}
+
+.navbutton table, .navbutton table td {
+	margin: 0 0;
+	padding: 0 0;
+}
+
+.side-pre-only #page-content #region-main-box #region-post-box #region-main-wrap #region-main {
+    padding-bottom: 3px;
+    padding-right: 3px;
+    padding-top: 10px;
+}
+
+#region-main .region-content {
+	width: auto;
+	background: #fff;
+	border: 1px solid #bcbdbd;
+	border-top: 0px;
+	border-radius: 0px 0px 3px 3px;
+	
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15);
+	padding: 20px 20px !important;
+}
+
+#topper {
+	border: 1px solid #bcbdbd;
+	background: #edefef url([[pix:theme|btop]]) repeat-x top left;
+	padding: 8px 15px;
+	border-radius: 3px 3px 0px 0px;
+	box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.15);
+	
+	font-size: 14px;
+	font-weight: 500;
+	color: [[setting:headercolor]];
+	text-shadow: 0px -1px 1px #fff;
+}
+
+/* footer */
+#fakefooter {
+	font-size: 90%;
+	padding: 15px 5px;
+	text-align: right;
+	position: relative;
+}
+
+#fakefooter .langmenu {
+	position: absolute;
+	left: 0px;
+}
+
+#page-footer {
+	float: none;
+}
+
+
+/* forms and boxes */
+.mform fieldset {
+    border-color: #e5e5e5;
+}
+
+.mform legend.ftoggler {
+	color: #333;
+    border: 1px solid #dadada;
+    
+    background: #eee url([[pix:theme|bar1]]) repeat-x bottom left;
+   
+    -moz-box-shadow: 1px 1px 1px #FAFAFA inset, 1px 2px 2px #aaa;
+    -webkit-box-shadow: 1px 1px 1px #FAFAFA inset, 1px 2px 2px #aaa;
+    box-shadow: 1px 1px 1px #FAFAFA inset, 1px 2px 2px #aaa;
+    text-shadow: 0 1px 0 #fff;
+    
+    padding: 5px 15px;
+}
+
+.generalbox {
+    border-color: #e5e5e5;
+    padding: 5px;
+}
+
+.sitetopic, .categorybox {
+	border: none;
+	padding: 0px;
+}
+
+#intro.generalbox {
+    background: #fafafa;
+    border: 1px solid #DADADA;
+    -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+    margin: 1em auto;
+    padding: 10px;
+    width: 85%;
+}
+
+#notice,
+.redirectmessage2 {
+    text-align: center;
+    border-color: #e5e5e5;
+    padding: 5px;
+}
+
+.pagelayout-redirect #content {
+	width:60%; background: #fff; margin: 20px auto; padding: 1em;
+	border: 1px solid #dadada;
+	-webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+}
+
+/* success or error message */
+div.notifysuccess {
+    width: 80%;
+    margin: 0 auto;
+    font-size: 15px;
+    color: #008500;
+    border: 3px solid #dadada;
+    text-align: center;
+    background: #fff url([[pix:theme|check]]) no-repeat 2% 50%;
+    padding: 5px;
+}
+
+div.box.errorbox {
+    border: 1px solid #dadada;
+    color: #ff0000;
+    background: #fff url([[pix:theme|error]]) no-repeat 1% 3%;
+    padding: 10px;
+}
+
+div.redirectmessage {
+    width: 60%;
+    margin: 10px auto 0 auto;
+    border: 0px solid transparent;
+    font-size: 13px;
+    background: #fff url([[pix:theme|ajax-loader]]) no-repeat 50% 95%;
+    padding: 20px 20px 40px;  
+}
+
+.mform .error {
+	border: 1px dashed red;
+}
+
+.mform .error span {
+	border: none;
+}
+
+/*tabs */
+.tabtree .tabrow0 li a {
+   background: #fff url([[pix:theme|bar1]]) repeat-x top left;
+   -moz-box-shadow: 1px 1px 1px #fff inset;
+   -webkit-box-shadow: 1px 1px 1px #fff inset;
+   box-shadow: 1px 1px 1px #fff inset; 
+   }
+
+.tabtree .tabrow0 .here a {
+    background: #fff ;
+    padding-bottom: 5px;
+}
+
+.tabtree .tabrow0 li a {
+    border-color: #CCCCCC;
+    border-style: solid;
+    border-width: 1px 1px 0;
+    padding: 8px 10px 4px;
+    
+    
+    -webkit-border-top-left-radius: 3px;
+	-webkit-border-top-right-radius: 3px;
+	-moz-border-radius-topleft: 3px;
+	-moz-border-radius-topright: 3px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+}
+
+.ie7 .tabtree .tabrow0 li a {
+	padding-bottom: 7px;
+}
+
+/*2nd row */
+.tabtree .tabrow0 .tabrow1 {
+    padding: 15px 0 2px;
+}
+
+.tabtree .tabrow1 li a {
+    border-color: transparent;
+    border-style: solid;
+    border-width: 1px 1px 0;
+    padding: 8px 10px 4px;
+}
+
+.tabtree .tabrow0 ul, .tabtree .tabrow0 div {
+    border-top: 1px solid #DDDDDD;
+}    
+
+.tabtree .tabrow1 ul, .tabtree .tabrow1 div {
+    border-top: 0px;
+}
+
+tabtree .tabrow0 ul, .tabtree .tabrow0 div {
+    border-top: 1px solid #CCCCCC;
+} 
+/* Tables */
+
+#page-mod-glossary-editcategories .generalbox,
+#page-user-action_redir .generaltable,
+#page-user-index #participants,
+.path-mod-forum .forumheaderlist {
+    border-width: 1px;
+    border-color: #eee;
+    border-style: solid;
+}
+
+/*table header */
+#page-mod-glossary-editcategories .generalbox th,
+#page-user-action_redir .generaltable th,
+#page-user-index #participants th,
+.path-mod-choice .results th,
+.path-mod-forum .forumheaderlist th, #page-admin-course-category .generalbox th, .editcourse .header, .results .header, #attempts .header, .generaltable .header, .plugincompattable th, .environmenttable th, .forumheaderlist th {
+     color: #333;
+    background: #eee url([[pix:theme|bar1]]) repeat-x bottom left;
+    border-bottom: 1px solid #d5d5d5;
+    -moz-box-shadow: 1px 1px 1px #fafafa inset;
+    -webkit-box-shadow: 1px 1px 1px #fafafa inset;
+    box-shadow: 1px 1px 1px #fafafa inset;
+    text-shadow: 0 1px 0 #fff;
+    }
+
+#page-user-action_redir .generaltable td,
+#page-user-index #participants td,
+.path-mod-forum .forumheaderlist td {
+    border-color: #dadada;
+    border-width: 0 1px 1px 0;
+    border-style: solid;
+    border-collapse: collapse;
+    padding: 2px 8px;
+}
+
+#page-user-action_redir .generaltable .r1 td,
+#page-user-index #participants .r0 td,
+.path-mod-choice .results .count,
+.path-mod-forum .forumheaderlist .r1 td, .generaltable .r0 td {
+    background: #fafafa;
+}
+
+
+a.dimmed, a.dimmed_text, .dimmed_text, .dimmed_text a, .dimmed_category, .dimmed_category a {
+    color: #AAAAAA;
+}
+
+/** yui overlays **/
+
+div.yui3-widget.yui3-overlay.yui3-widget-positioned {
+    border: 1px solid #cccccc;
+}
+
+div.yui3-overlay-content.yui3-widget-stdmod {
+    border: 1px solid #fff;
+    background: #ffff66 url([[pix:theme|alert-overlay]]) repeat-x;
+}
+
+div.yui3-widget-bd {
+    border: none;
+    background: none;
+}
+
+div.yui3-widget-bd h1.helpheading {
+    font-size: 16px !important;
+    font-weight: 800;
+    margin-top: 5px;
+}
+
+.yui-module.yui-overlay.yui-panel div.hd {
+    background: #eeeeee;
+    }
+
+/* report fixes and grade table fixes */
+.path-course-report #region-main-box #region-main .region-content, .path-course-report #page-content #region-main-box #region-post-box #region-main-wrap #region-main .region-content, .pagelayout-report .no-overflow {
+	overflow: auto;
+}
+
+.overview-tablecontainer, .graph {
+	overflow: auto;
+}
+
+#page-site-index .coursebox {
+	padding-bottom: 15px;
+}
+
+table#completion-progress {
+	display: block !important;
+    overflow: auto;
+    width: 100%;
+}
+
+/*My Moodle Page */
+.path-my .coursebox .info {
+    float: none;
+    text-align: left;
+    width: 90%;
+}
+
+/*buttons */
+input[type="submit"], input[type="button"] {
+	padding: .5em .8em .5em;
+	border: 1px solid #ccc;
+	-moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2), 1px 1px 1px #fff inset;
+	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2), 1px 1px 1px #fff inset;
+	box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2), 1px 1px 1px #fff inset;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background: #eee url([[pix:theme|bar1]]) repeat-x bottom left;
+	text-shadow: 0 1px 1px 	#fff;
+	font-size: .95em;
+	font-weight: 500;
+	color: #333;
+	cursor: pointer;
+}
+
+input[type="submit"]:hover, input[type="button"]:hover {
+	-moz-box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.4), 1px 1px 1px #FFFFFF inset;
+	-webkit-box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.4), 1px 1px 1px #FFFFFF inset;
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.4), 1px 1px 1px #FFFFFF inset;
+	color: #000;
+}
+
+input[type="submit"]:active, input[type="button"]:active {
+	-moz-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.3) inset, 0 1px 1px rgba(0, 0, 0, 0.15) inset, 1px 0px 1px rgba(0, 0, 0, 0.15) inset;
+	-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.3) inset, 0 1px 1px rgba(0, 0, 0, 0.15) inset, 1px 0px 1px rgba(0, 0, 0, 0.15) inset;
+	box-shadow: 0 1px 6px rgba(0, 0, 0, 0.3) inset, 0 1px 1px rgba(0, 0, 0, 0.15) inset, 1px 0px 1px rgba(0, 0, 0, 0.15) inset;
+	color: #000;
+}
+
+.ie7 input[type="submit"]:hover, .ie7 input[type="button"]:hover, .ie8 input[type="submit"]:hover, .ie8 input[type="button"]:hover {
+	background-image: none;
+	border: 1px solid #666;
+}
+
+.navbar .navbutton input[type="submit"] {
+	background-color: #eee;
+    border: 1px solid #CCCCCC;
+    -webkit-box-shadow: 0 0 3px #CCCCCC inset;
+    box-shadow: 0 0 3px #CCCCCC inset;
+    font-size: 90%;
+}
+
+.navbar .navbutton .singlebutton input[type="submit"] {
+	background: #eee url([[pix:theme|greenLight]]) no-repeat 5px 50%;
+	padding-left: 16px;
+	color: green;
+}
+
+.editing .navbar .navbutton .singlebutton input[type="submit"] {
+	color: red;
+	background: #eee url([[pix:theme|redLight]]) no-repeat 5px 50%;
+}
+
+.navbar .navbutton input[type="submit"]:hover {
+	-webkit-box-shadow: 1px 1px 3px #ccc;
+	box-shadow: 1px 1px 3px #ccc;
+}
+
+/*green button */
+#loginbtn {
+	background: #69b019 url([[pix:theme|greenbut]]) repeat-x top left;
+	border: 1px solid #558a0f;
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.15);
+	color: #fff;
+	text-shadow: 1px -1px 1px #558a0f;
+	min-width: 180px;
+}
+
+#loginbtn:hover, #loginbtn:active {
+	border: 1px solid #69b019;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/*filemanager */
+.filemanager-container ul li {
+    border-bottom: 1px dashed #CCCCCC;
+    padding: 0.5em 0;
+}
+
+.filemanager-container {
+    padding: 1em 1.5em 1.5em;
+}
+
+.loginbox.twocolumns .loginpanel {
+    border-right: 1px solid #EEEEEE;
+}    
+
+/*gradebook updates and fixes */
+/* gradebook column headers */
+table#user-grades .catlevel1, table#user-grades .r1, .path-grade-report-grader table tr.even td.cell, .path-grade-report-grader table tr.even th {
+    background: #FFFFFF;
+}
+
+table#user-grades th.item {
+    max-width: 40px;
+    overflow: hidden;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+table#user-grades th.item:hover {
+    max-width: 250px;
+    overflow: hidden;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+.pagelayout-report .tabtree {
+    font-size: 90%;
+}
+
+div.graderreportoverlay {
+	font-size: 80%;
+	padding: 1em;
+}
+
+#page-grade-report-user-index #graded_users_selector {
+   float: none;
+}
+
+table.user-grade {
+    width: 100%;
+}
+
+/*gradebook fixed student names column alignment issue for IE8 only */
+/*gradebook fixed student names column alignment issue */
+.ie8 table#user-grades th.category {
+	border-width:0px 0px 1px;
+}
+
+/*login page stuff */
+.thelogin #page-content {
+	box-shadow: -2px -2px 5px rgba(0, 0, 0, 0.2), 2px 2px 5px rgba(0, 0, 0, 0.2);
+    margin: 50px auto;
+    min-width: 300px;
+    width: 50%;
+    background: #fff;
+}
+
+.thelogin #region-main .region-content {
+	border: 0px solid transparent;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+#logologin {
+	margin: 15px auto 5px;
+	display: block;
+}
+
+.thelogin .loginbox {
+    margin: 0;
+}
+
+.thelogin .loginbox .loginpanel .desc {
+    background: #FFFFCC;
+    border: 1px solid #FFFF33;
+    font-size: 90%;
+    margin: 0 0 5px;
+    padding: 5px;
+}
+
+.content-only .thelogin #page-content #region-main {
+    margin-left: 0;
+    padding: 0 0;
+}
+
+.thelogin #page-content #region-main-box .region-content {
+    padding: 0 5px 5px !important;
+}
+
+.thelogin .loginbox h2 {
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+}
+
+.thelogin .loginbox.twocolumns {
+	margin: 10px auto;
+}

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/admin/tool/unittest
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/admin/tool/unittest/settings.php
+END
+simpletestlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/liceovirtualnew/!svn/ver/1/admin/tool/unittest/simpletestlib.php
+END
+ex_simple_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/liceovirtualnew/!svn/ver/1/admin/tool/unittest/ex_simple_test.php
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/liceovirtualnew/!svn/ver/1/admin/tool/unittest/styles.css
+END
+dbtest.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/liceovirtualnew/!svn/ver/1/admin/tool/unittest/dbtest.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/admin/tool/unittest/version.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/admin/tool/unittest/index.php
+END
+coveragefile.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/admin/tool/unittest/coveragefile.php
+END
+simpletestcoveragelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/liceovirtualnew/!svn/ver/1/admin/tool/unittest/simpletestcoveragelib.php
+END
+ex_reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/liceovirtualnew/!svn/ver/1/admin/tool/unittest/ex_reporter.php
+END

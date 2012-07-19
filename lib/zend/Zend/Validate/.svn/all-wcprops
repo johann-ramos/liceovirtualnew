@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate
+END
+Between.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Between.php
+END
+Int.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Int.php
+END
+Isbn.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Isbn.php
+END
+Callback.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Callback.php
+END
+Identical.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Identical.php
+END
+EmailAddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/EmailAddress.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Exception.php
+END
+Barcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Barcode.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Interface.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Abstract.php
+END
+CreditCard.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/CreditCard.php
+END
+GreaterThan.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/GreaterThan.php
+END
+Float.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Float.php
+END
+InArray.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/InArray.php
+END
+Ccnum.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Ccnum.php
+END
+Ip.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Ip.php
+END
+StringLength.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/StringLength.php
+END
+Iban.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Iban.php
+END
+Regex.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Regex.php
+END
+Alnum.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Alnum.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Date.php
+END
+Hostname.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Hostname.php
+END
+NotEmpty.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/NotEmpty.php
+END
+PostCode.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/PostCode.php
+END
+LessThan.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/LessThan.php
+END
+Digits.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Digits.php
+END
+Hex.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Hex.php
+END
+Alpha.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Validate/Alpha.php
+END

@@ -217,5 +217,6 @@ if ($hasfooter) {
 <?php   //the waiting div has been closed
 }
     echo $OUTPUT->standard_end_of_body_html(); ?>
+    
 </body>
 </html>

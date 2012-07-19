@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/liceovirtualnew/!svn/ver/1/auth/mnet/db
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/auth/mnet/db/install.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/auth/mnet/db/upgrade.php
+END
+mnet.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/auth/mnet/db/mnet.php
+END

@@ -1,0 +1,217 @@
+10
+
+dir
+3
+http://mercury/svn/liceovirtualnew/lib/yui/3.2.0/build
+http://mercury/svn/liceovirtualnew
+
+
+
+2012-06-14T11:38:39.682610Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f9563b45-dcfc-4bb1-9a11-3fbd7108bb97
+
+substitute
+dir
+
+cssgrids-deprecated
+dir
+
+event-gestures
+dir
+
+swfdetect
+dir
+
+stylesheet
+dir
+
+event-custom
+dir
+
+dataschema
+dir
+
+datasource
+dir
+
+node-menunav
+dir
+
+history-deprecated
+dir
+
+classnamemanager
+dir
+
+assets
+dir
+
+cache
+dir
+
+attribute
+dir
+
+widget-anim
+dir
+
+dump
+dir
+
+intl
+dir
+
+json
+dir
+
+node-flick
+dir
+
+dom
+dir
+
+cssgrids
+dir
+
+anim
+dir
+
+node
+dir
+
+transition
+dir
+
+pluginhost
+dir
+
+node-focusmanager
+dir
+
+tabview
+dir
+
+history
+dir
+
+yql
+dir
+
+yui
+dir
+
+imageloader
+dir
+
+uploader
+dir
+
+simpleyui
+dir
+
+profiler
+dir
+
+widget
+dir
+
+dd
+dir
+
+scrollview
+dir
+
+jsonp
+dir
+
+collection
+dir
+
+querystring
+dir
+
+plugin
+dir
+
+event-valuechange
+dir
+
+cssfonts
+dir
+
+queue-promote
+dir
+
+cookie
+dir
+
+sortable
+dir
+
+datatype
+dir
+
+test
+dir
+
+event
+dir
+
+overlay
+dir
+
+slider
+dir
+
+cssbase
+dir
+
+compat
+dir
+
+editor
+dir
+
+cssreset
+dir
+
+oop
+dir
+
+swf
+dir
+
+async-queue
+dir
+
+console
+dir
+
+event-simulate
+dir
+
+loader
+dir
+
+io
+dir
+
+base
+dir
+

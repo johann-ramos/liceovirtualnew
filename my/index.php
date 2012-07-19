@@ -44,9 +44,7 @@ redirect_if_major_upgrade_required();
 $edit   = optional_param('edit', null, PARAM_BOOL);    // Turn editing on and off
 
 require_login();
-
 $strmymoodle = get_string('myhome');
-
 if (isguestuser()) {  // Force them to see system default, no editing allowed
     $userid = NULL; 
     $USER->editing = $edit = 0;  // Just in case

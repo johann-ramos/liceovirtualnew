@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/backup/moodle2
+END
+backup_assignment_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/backup/moodle2/backup_assignment_stepslib.php
+END
+restore_assignment_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/backup/moodle2/restore_assignment_activity_task.class.php
+END
+backup_assignment_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/backup/moodle2/backup_assignment_activity_task.class.php
+END
+restore_assignment_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/backup/moodle2/restore_assignment_stepslib.php
+END

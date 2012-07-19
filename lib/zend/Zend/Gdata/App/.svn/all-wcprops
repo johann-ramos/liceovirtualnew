@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App
+END
+AuthException.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/AuthException.php
+END
+CaptchaRequiredException.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/CaptchaRequiredException.php
+END
+IOException.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/IOException.php
+END
+BaseMediaSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/BaseMediaSource.php
+END
+HttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/HttpException.php
+END
+FeedSourceParent.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/FeedSourceParent.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/Exception.php
+END
+LoggingHttpClientAdapterSocket.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/LoggingHttpClientAdapterSocket.php
+END
+FeedEntryParent.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/FeedEntryParent.php
+END
+MediaFileSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/MediaFileSource.php
+END
+MediaSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/MediaSource.php
+END
+Entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/Entry.php
+END
+MediaEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/MediaEntry.php
+END
+BadMethodCallException.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/BadMethodCallException.php
+END
+Feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/Feed.php
+END
+VersionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/VersionException.php
+END
+InvalidArgumentException.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/InvalidArgumentException.php
+END
+Base.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/Base.php
+END
+Extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/Extension.php
+END
+Util.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/App/Util.php
+END

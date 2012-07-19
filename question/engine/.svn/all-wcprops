@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/question/engine
+END
+bank.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/question/engine/bank.php
+END
+questionusage.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/liceovirtualnew/!svn/ver/1/question/engine/questionusage.php
+END
+datalib.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/question/engine/datalib.php
+END
+questionattemptstep.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/question/engine/questionattemptstep.php
+END
+states.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/question/engine/states.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/question/engine/lib.php
+END
+questionattempt.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/liceovirtualnew/!svn/ver/1/question/engine/questionattempt.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/question/engine/renderer.php
+END

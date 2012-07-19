@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/db
+END
+subplugins.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/db/subplugins.php
+END
+upgradelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/db/upgradelib.php
+END
+install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/db/install.xml
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/db/access.php
+END
+log.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/db/log.php
+END
+events.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/db/events.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/db/install.php
+END
+messages.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/db/messages.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/db/upgrade.php
+END

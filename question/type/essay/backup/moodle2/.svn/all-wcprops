@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/liceovirtualnew/!svn/ver/1/question/type/essay/backup/moodle2
+END
+restore_qtype_essay_plugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/liceovirtualnew/!svn/ver/1/question/type/essay/backup/moodle2/restore_qtype_essay_plugin.class.php
+END
+backup_qtype_essay_plugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/liceovirtualnew/!svn/ver/1/question/type/essay/backup/moodle2/backup_qtype_essay_plugin.class.php
+END

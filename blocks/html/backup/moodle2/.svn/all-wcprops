@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/blocks/html/backup/moodle2
+END
+backup_html_block_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/liceovirtualnew/!svn/ver/1/blocks/html/backup/moodle2/backup_html_block_task.class.php
+END
+restore_html_block_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/liceovirtualnew/!svn/ver/1/blocks/html/backup/moodle2/restore_html_block_task.class.php
+END

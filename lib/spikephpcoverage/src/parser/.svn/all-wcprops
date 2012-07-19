@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/lib/spikephpcoverage/src/parser
+END
+CoverageXmlParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/liceovirtualnew/!svn/ver/1/lib/spikephpcoverage/src/parser/CoverageXmlParser.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/liceovirtualnew/!svn/ver/1/lib/spikephpcoverage/src/parser/Parser.php
+END
+BasicXmlParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/liceovirtualnew/!svn/ver/1/lib/spikephpcoverage/src/parser/BasicXmlParser.php
+END
+PHPParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/liceovirtualnew/!svn/ver/1/lib/spikephpcoverage/src/parser/PHPParser.php
+END

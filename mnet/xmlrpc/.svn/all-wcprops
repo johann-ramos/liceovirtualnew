@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/liceovirtualnew/!svn/ver/1/mnet/xmlrpc
+END
+server.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/mnet/xmlrpc/server.php
+END
+serverlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/mnet/xmlrpc/serverlib.php
+END
+xmlparser.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/mnet/xmlrpc/xmlparser.php
+END
+client.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/mnet/xmlrpc/client.php
+END

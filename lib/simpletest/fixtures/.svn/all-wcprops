@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/lib/simpletest/fixtures
+END
+events.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/liceovirtualnew/!svn/ver/1/lib/simpletest/fixtures/events.php
+END
+user_agents.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/lib/simpletest/fixtures/user_agents.php
+END
+gradetest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/liceovirtualnew/!svn/ver/1/lib/simpletest/fixtures/gradetest.php
+END

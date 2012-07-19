@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/CommentParser
+END
+DocElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/CommentParser/DocElement.php
+END
+AbstractParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/CommentParser/AbstractParser.php
+END
+AbstractDocElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/CommentParser/AbstractDocElement.php
+END
+ClassCommentParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/CommentParser/ClassCommentParser.php
+END
+FunctionCommentParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/CommentParser/FunctionCommentParser.php
+END
+PairElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/CommentParser/PairElement.php
+END
+MemberCommentParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/CommentParser/MemberCommentParser.php
+END
+ParameterElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/CommentParser/ParameterElement.php
+END
+ParserException.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/CommentParser/ParserException.php
+END
+SingleElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/CommentParser/SingleElement.php
+END
+CommentElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/CommentParser/CommentElement.php
+END

@@ -1,0 +1,86 @@
+10
+
+dir
+3
+http://mercury/svn/liceovirtualnew/mod/quiz/accessrule
+http://mercury/svn/liceovirtualnew
+
+
+
+2012-06-14T11:38:39.682610Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f9563b45-dcfc-4bb1-9a11-3fbd7108bb97
+
+delaybetweenattempts
+dir
+
+accessrulebase.php
+file
+
+
+
+
+2012-06-14T11:49:03.004379Z
+702b973d4957869fb269b195212995b6
+2012-06-14T11:38:39.682610Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11747
+
+timelimit
+dir
+
+ipaddress
+dir
+
+securewindow
+dir
+
+numattempts
+dir
+
+password
+dir
+
+safebrowser
+dir
+
+openclosedate
+dir
+

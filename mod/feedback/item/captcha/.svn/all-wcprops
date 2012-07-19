@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/item/captcha
+END
+print_captcha.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/item/captcha/print_captcha.php
+END
+captcha_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/item/captcha/captcha_form.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/item/captcha/lib.php
+END

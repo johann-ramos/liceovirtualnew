@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/ControlStructures
+END
+InlineControlStructureSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/ControlStructures/InlineControlStructureSniff.php
+END
+ControlSignatureSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/ControlStructures/ControlSignatureSniff.php
+END
+ElseIfDeclarationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/ControlStructures/ElseIfDeclarationSniff.php
+END

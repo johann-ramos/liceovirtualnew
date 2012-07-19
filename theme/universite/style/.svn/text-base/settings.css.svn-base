@@ -1,0 +1,99 @@
+h2, h2.main, h3, h4, h5 {
+	color: [[setting:headercolor]] ;
+}
+h3.weekdates, h3.sectionname {
+	color: [[setting:lighterheadercolor]] !important;	
+}
+
+div#header, div#page-header {
+    background: [[setting:headercolor]]; /* for non-css3 browsers */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='[[setting:lighterheadercolor]]', endColorstr='[[setting:headercolor]]'); /* for IE */
+    background: -webkit-gradient(linear, left top, left bottom, from([[setting:lighterheadercolor]]), to([[setting:headercolor]])); /* for webkit browsers */
+    background: -moz-linear-gradient(top,  [[setting:lighterheadercolor]],  [[setting:headercolor]]); /* for firefox 3.6+ */
+}
+h2.headingblock {background: [[setting:lighterheadercolor]]; }
+
+div#page-content {
+	border-top: 1px solid [[setting:lighterheadercolor]];
+}
+
+div#page-content a:link, div#page-content a:visited, #page-mod-quiz-edit .questionbankwindow div.header a {
+	color: [[setting:linkcolor]];
+}
+
+div#breadcrumbs a:link, div#breadcrumbs a:visited, div.navbar a:link, div.navbar a:visited {
+	color: [[setting:linkcolor]] !important;	
+}
+
+li.section.current {
+	border-color: [[setting:lighterheadercolor]];
+}
+li.section.current .content h3.sectionname {
+	border-color: [[setting:lighterheadercolor]];	
+}
+
+.block_recent_activity h3.main {
+	color: [[setting:lighterheadercolor]];
+}
+
+table.event td.topic div.name {
+	color: [[setting:lighterheadercolor]];
+
+}
+legend {
+	color: [[setting:lighterheadercolor]] !important;
+}
+div.calendar-controls h1 {
+	color: [[setting:headercolor]];
+}
+
+div#dock div.dockedtitle {
+	color: [[setting:lighterheadercolor]];
+}
+div#loginDetails a:hover, 
+div#loginDetails a:active, 
+div#breadcrumbs a:hover, 
+div#breadcrumbs a:active, 
+div#page-header a:hover, 
+div#page-header a:active {
+	color: [[setting:linkcolorhover]] !important;
+}
+div#page-content a:hover, div#page-content a:active {
+	color: [[setting:linkcolorhover]] !important;
+}
+
+div#loginDetails a:link, div#loginDetails a:visited, div#page-header a:link, div#page-header a:visited {
+	color: [[setting:linkcolorheader]] !important;	
+}
+div#dock div.dockedtitle {
+	background-color:[[setting:dockbuttons]];
+}
+
+
+div#custommenu {
+	border-top: 2px solid [[setting:linkcolorhover]];
+	background: [[setting:lighterheadercolor]];	
+	border-bottom:none !important;
+}
+div#custommenu li {
+	background: [[setting:linkcolorhover]];
+	border:none !important;
+	margin-right: 6px;
+	padding: auto 11px auto 11px;
+}
+div#custommenu li div.custom_menu_submenu {
+	border-top:1px solid [[setting:lighterheadercolor]] !important;	
+}
+div#custommenu li div.custom_menu_submenu a:link {
+	padding: 3px 11px 3px 11px;
+	margin: 0px;
+	border-top:1px solid [[setting:lighterheadercolor]] !important;	
+}
+div#custommenu li div.custom_menu_submenu a:hover {
+	background-color: [[setting:lighterheadercolor]] !important;
+	border-top:1px solid [[setting:linkcolorhover]] !important;	
+}
+
+
+/** Custom CSS **/
+[[setting:customcss]]

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/XmlRpc/Server
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/XmlRpc/Server/Cache.php
+END
+System.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/XmlRpc/Server/System.php
+END
+Fault.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/XmlRpc/Server/Fault.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/XmlRpc/Server/Exception.php
+END

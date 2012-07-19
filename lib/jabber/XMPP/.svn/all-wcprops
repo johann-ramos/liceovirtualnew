@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/lib/jabber/XMPP
+END
+XMPP_Old.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/lib/jabber/XMPP/XMPP_Old.php
+END
+XMPP.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/lib/jabber/XMPP/XMPP.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/lib/jabber/XMPP/README.txt
+END
+BOSH.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/lib/jabber/XMPP/BOSH.php
+END
+XMLObj.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/lib/jabber/XMPP/XMLObj.php
+END
+XMLStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/lib/jabber/XMPP/XMLStream.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/lib/jabber/XMPP/Exception.php
+END
+Roster.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/lib/jabber/XMPP/Roster.php
+END
+Log.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/lib/jabber/XMPP/Log.php
+END

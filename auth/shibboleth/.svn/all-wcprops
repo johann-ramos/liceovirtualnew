@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/auth/shibboleth
+END
+auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/auth/shibboleth/auth.php
+END
+config.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/auth/shibboleth/config.html
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/auth/shibboleth/README.txt
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/auth/shibboleth/version.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/auth/shibboleth/index.php
+END
+index_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/auth/shibboleth/index_form.html
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/auth/shibboleth/login.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/auth/shibboleth/logout.php
+END

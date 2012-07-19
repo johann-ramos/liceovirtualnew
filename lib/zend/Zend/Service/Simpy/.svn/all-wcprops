@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/Simpy
+END
+NoteSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/Simpy/NoteSet.php
+END
+Watchlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/Simpy/Watchlist.php
+END
+LinkQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/Simpy/LinkQuery.php
+END
+WatchlistFilterSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/Simpy/WatchlistFilterSet.php
+END
+Note.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/Simpy/Note.php
+END
+TagSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/Simpy/TagSet.php
+END
+WatchlistFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/Simpy/WatchlistFilter.php
+END
+LinkSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/Simpy/LinkSet.php
+END
+Tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/Simpy/Tag.php
+END
+Link.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/Simpy/Link.php
+END
+WatchlistSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/Simpy/WatchlistSet.php
+END

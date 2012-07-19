@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/liceovirtualnew/!svn/ver/1/backup/cc/schemas/domainProfile_1/common
+END
+vocabValues.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/liceovirtualnew/!svn/ver/1/backup/cc/schemas/domainProfile_1/common/vocabValues.xsd
+END
+elementNames.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/liceovirtualnew/!svn/ver/1/backup/cc/schemas/domainProfile_1/common/elementNames.xsd
+END
+rootElement.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/liceovirtualnew/!svn/ver/1/backup/cc/schemas/domainProfile_1/common/rootElement.xsd
+END
+dataTypes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/liceovirtualnew/!svn/ver/1/backup/cc/schemas/domainProfile_1/common/dataTypes.xsd
+END
+elementTypes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/liceovirtualnew/!svn/ver/1/backup/cc/schemas/domainProfile_1/common/elementTypes.xsd
+END
+vocabTypes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/liceovirtualnew/!svn/ver/1/backup/cc/schemas/domainProfile_1/common/vocabTypes.xsd
+END
+anyElement.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/liceovirtualnew/!svn/ver/1/backup/cc/schemas/domainProfile_1/common/anyElement.xsd
+END

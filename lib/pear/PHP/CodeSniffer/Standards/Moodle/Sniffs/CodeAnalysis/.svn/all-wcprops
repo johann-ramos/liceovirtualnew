@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/CodeAnalysis
+END
+UnnecessaryFinalModifierSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/CodeAnalysis/UnnecessaryFinalModifierSniff.php
+END
+ForLoopShouldBeWhileLoopSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/CodeAnalysis/ForLoopShouldBeWhileLoopSniff.php
+END
+UnconditionalIfStatementSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/CodeAnalysis/UnconditionalIfStatementSniff.php
+END
+UnusedFunctionParameterSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/CodeAnalysis/UnusedFunctionParameterSniff.php
+END
+UselessOverridingMethodSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/CodeAnalysis/UselessOverridingMethodSniff.php
+END
+ForLoopWithTestFunctionCallSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/CodeAnalysis/ForLoopWithTestFunctionCallSniff.php
+END
+JumbledIncrementerSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/CodeAnalysis/JumbledIncrementerSniff.php
+END
+EmptyStatementSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/CodeAnalysis/EmptyStatementSniff.php
+END

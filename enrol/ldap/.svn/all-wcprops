@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/liceovirtualnew/!svn/ver/1/enrol/ldap
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/enrol/ldap/lib.php
+END
+settingslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/enrol/ldap/settingslib.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/enrol/ldap/settings.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/enrol/ldap/version.php
+END

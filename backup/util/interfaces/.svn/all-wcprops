@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/backup/util/interfaces
+END
+executable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/liceovirtualnew/!svn/ver/1/backup/util/interfaces/executable.class.php
+END
+processable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/liceovirtualnew/!svn/ver/1/backup/util/interfaces/processable.class.php
+END
+annotable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/liceovirtualnew/!svn/ver/1/backup/util/interfaces/annotable.class.php
+END
+checksumable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/liceovirtualnew/!svn/ver/1/backup/util/interfaces/checksumable.class.php
+END
+loggable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/liceovirtualnew/!svn/ver/1/backup/util/interfaces/loggable.class.php
+END

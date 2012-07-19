@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/liceovirtualnew/!svn/ver/1/grade/grading/form/rubric/backup/moodle2
+END
+backup_gradingform_rubric_plugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/liceovirtualnew/!svn/ver/1/grade/grading/form/rubric/backup/moodle2/backup_gradingform_rubric_plugin.class.php
+END
+restore_gradingform_rubric_plugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/liceovirtualnew/!svn/ver/1/grade/grading/form/rubric/backup/moodle2/restore_gradingform_rubric_plugin.class.php
+END

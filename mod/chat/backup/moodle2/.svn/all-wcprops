@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/mod/chat/backup/moodle2
+END
+restore_chat_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/liceovirtualnew/!svn/ver/1/mod/chat/backup/moodle2/restore_chat_activity_task.class.php
+END
+backup_chat_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/liceovirtualnew/!svn/ver/1/mod/chat/backup/moodle2/backup_chat_activity_task.class.php
+END
+restore_chat_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/liceovirtualnew/!svn/ver/1/mod/chat/backup/moodle2/restore_chat_stepslib.php
+END
+backup_chat_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/liceovirtualnew/!svn/ver/1/mod/chat/backup/moodle2/backup_chat_stepslib.php
+END

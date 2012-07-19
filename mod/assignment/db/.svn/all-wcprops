@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/db
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/db/access.php
+END
+log.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/db/log.php
+END
+events.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/db/events.php
+END
+messages.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/db/messages.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/db/upgrade.php
+END
+subplugins.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/db/subplugins.php
+END
+install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/mod/assignment/db/install.xml
+END

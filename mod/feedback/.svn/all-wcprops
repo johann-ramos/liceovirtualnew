@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback
+END
+delete_completed.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/delete_completed.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/settings.php
+END
+unmapcourse.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/unmapcourse.php
+END
+edit_item.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/edit_item.php
+END
+analysis_course.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/analysis_course.php
+END
+delete_item_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/delete_item_form.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/index.php
+END
+edit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/edit_form.php
+END
+complete.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/complete.php
+END
+show_entries.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/show_entries.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/view.php
+END
+show_nonrespondents.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/show_nonrespondents.php
+END
+delete_completed_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/delete_completed_form.php
+END
+analysis.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/analysis.php
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/styles.css
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/edit.php
+END
+tabs.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/tabs.php
+END
+mapcourse.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/mapcourse.php
+END
+mod_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/mod_form.php
+END
+analysis_to_excel.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/analysis_to_excel.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/lib.php
+END
+feedback.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/feedback.js
+END
+import.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/import.php
+END
+complete_guest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/complete_guest.php
+END
+choose_group_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/choose_group_form.php
+END
+delete_item.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/delete_item.php
+END
+delete_template_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/delete_template_form.php
+END
+use_templ_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/use_templ_form.php
+END
+export.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/export.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/version.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/README.txt
+END
+show_entries_anonym.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/show_entries_anonym.php
+END
+print.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/print.php
+END
+import_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/import_form.php
+END
+delete_template.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/delete_template.php
+END
+use_templ.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/use_templ.php
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/TODO.txt
+END

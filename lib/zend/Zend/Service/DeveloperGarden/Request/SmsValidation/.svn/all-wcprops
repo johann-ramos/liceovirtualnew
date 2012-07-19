@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Request/SmsValidation
+END
+Invalidate.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Request/SmsValidation/Invalidate.php
+END
+GetValidatedNumbers.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Request/SmsValidation/GetValidatedNumbers.php
+END
+SendValidationKeyword.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Request/SmsValidation/SendValidationKeyword.php
+END
+Validate.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Request/SmsValidation/Validate.php
+END

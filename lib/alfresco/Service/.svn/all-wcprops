@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service
+END
+ChildAssociation.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service/ChildAssociation.php
+END
+BaseObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service/BaseObject.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service/Session.php
+END
+ContentData.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service/ContentData.php
+END
+Node.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service/Node.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service/Version.php
+END
+VersionHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service/VersionHistory.php
+END
+Functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service/Functions.php
+END
+NamespaceMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service/NamespaceMap.php
+END
+SpacesStore.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service/SpacesStore.php
+END
+Association.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service/Association.php
+END
+Store.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service/Store.php
+END
+Repository.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/liceovirtualnew/!svn/ver/1/lib/alfresco/Service/Repository.php
+END

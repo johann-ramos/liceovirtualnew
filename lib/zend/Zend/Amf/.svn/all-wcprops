@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Amf
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Amf/Exception.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Amf/Response.php
+END
+Server.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Amf/Server.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Amf/Request.php
+END
+Constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Amf/Constants.php
+END

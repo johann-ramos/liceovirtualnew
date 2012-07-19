@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Request/VoiceButler
+END
+NewCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Request/VoiceButler/NewCall.php
+END
+VoiceButlerAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Request/VoiceButler/VoiceButlerAbstract.php
+END
+CallStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Request/VoiceButler/CallStatus.php
+END
+TearDownCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Request/VoiceButler/TearDownCall.php
+END
+NewCallSequenced.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Request/VoiceButler/NewCallSequenced.php
+END

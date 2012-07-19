@@ -1,0 +1,320 @@
+/*
+* General
+/*
+
+/* Tabs */
+
+.tabtree {
+	margin: 20px 0 10px 0;
+	padding: 0 10px;
+	border-bottom: 1px solid #D2D9E0;
+}
+
+.tabtree li {
+	background-color: #E5E9ED;
+	border: 1px solid #D2D9D0;
+	padding: 5px;
+	margin: 5px;
+}
+
+.tabtree li.here {
+	background-color: #FBFCFD;
+	border-bottom-color: #FBFCFD;
+}
+
+/* Forums */
+
+.forumpost {
+	border: 1px solid #D2D9E0;
+	margin: -1px 0 0 0;
+	padding: 10px;
+}
+
+.forumpost .header {
+	border-bottom: 1px solid #D2D9E0;
+}
+
+.forumpost .subject {
+	font-weight: 500;
+}
+
+.forumpost .main-content {
+}
+
+.forumpost .side {
+	padding-top: 5px;
+}
+
+.path-mod-forum .indent {
+	margin-left: 0;
+	padding-left: 30px;
+}
+
+.path-mod-forum .forumheaderlist td {
+	border: 0 none;
+}
+
+.path-mod-forum .forumheaderlist {
+	border: 1px solid #D2D9E0;
+}
+
+.posting {
+	padding: 5px 0;
+}
+
+.forumolddiscuss {
+	padding: 0 0 0 3px;
+}
+
+.forumnodiscuss {
+	padding-left: 2px;
+}
+
+/* Calendar */
+
+.minicalendarblock h3 {
+	margin-bottom: 0;
+}
+
+.path-calendar .maincalendar .eventlist .event {
+	border: 1px solid #D2D9E0;
+}
+
+.name {
+	font-weight: normal;
+	font-size: 18px;
+}
+
+.path-calendar .maincalendar .header {
+	padding: 2px 0 0 2px;
+}
+
+.path-calendar .maincalendar .eventlist .event {
+	margin-bottom: 0;
+	margin-top: -1px;
+}
+
+.calendartable th, .calendartable td {
+	border: 1px solid #D2D9E0;
+}
+
+.calendar-event-panel {
+	border: 0 none;
+	background-color: transparent;
+}
+
+.calendar-event-panel .yui3-overlay-content {
+	border: 1px solid #717883;
+}
+
+/* Tables and Blogs */
+
+#qtypes {
+	border: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.webservicesui {
+	border: 0;
+}
+
+.boxaligncenter {
+	width: auto;
+}
+
+.userinfobox {
+	border: 0 none;
+	margin-bottom: 0;
+}
+
+.blog_entry tr {
+	background-color: transparent;
+}
+
+.blog_entry .topic {
+	width: 100%;
+}
+
+.blog_entry .audience {
+	display: none;
+}
+
+td.ok {
+	color: #00AA00;
+}
+
+td.warning {
+	color: #FFAA00;
+	font-weight: normal;
+}
+
+td.error {
+	color: #AA0000;
+	font-weight: normal;
+}
+
+.plugincampattable td.warning {
+	color: #FFAA00;
+	font-weight: normal;
+}
+
+.plugincompattable td.nonstandard {
+	color: #FFAA00;
+	font-weight: normal;
+}
+
+.plugincompattable td.missingplugin {
+	color: #AA0000;
+	font-weight: normal;
+}
+
+
+/* Misc. */
+
+#page-site-index .fpost .maincontent .left{
+	display: none;
+}
+
+#page-site-index .subscribelink {
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+#uninstallform fieldset, #installform fieldset {
+	padding: 3px;
+}
+
+/*
+* Courses
+*/
+
+
+/* Sections */
+
+.course-content ul.topics li.section {
+	margin: -1px 0 0;
+	padding: 10px 0;
+	border: 1px solid #D2D9E0;
+}
+
+.course-content ul.weeks li.section {
+	margin: -1px 0 0;
+	padding: 10px 0;
+	border: 1px solid #D2D9E0;
+}
+
+.course-content li#section-0 {
+	border-top: 0 none;
+	padding-top: 0;
+}
+
+/* Gradebook */
+/* YIKES AGAIN! */
+
+/* General */
+
+.allcoursegrades {
+	margin-left: -3px;
+}
+
+/* Assignments - Advanced Uploading of Assignments */
+
+#dates.generalbox {
+	margin: 10px;
+}
+
+/* Assignments - Online Text */
+
+/* Assignments - Upload a Single File */
+
+/* Assignments - Offline Activity */
+
+/* Chat */
+
+/* Choice */
+
+/* Feedback */
+
+/* Forum */
+/* Rules for Forums can be found above in 'General -> Forums' */
+
+/* Glossary */
+
+/* Lesson */
+
+/* Quiz */
+/* WOW THIS NEEDS A LOT OF WORK! */
+
+/* Wiki */
+
+.path-mod-wiki #page-content #region-main .region-content .box {
+	border: 0 none;
+}
+
+.path-mod-wiki #page-content #region-main .region-content #intro {
+	border: 1px solid #D2D9E0;
+}
+
+.path-mod-wiki .wiki_right {
+	padding-right: 3px;
+}
+
+.path-mod-wiki .wiki_headingtitle {
+	margin-right: 1px;
+}
+
+.path-mod-wiki .wiki-tags {
+	padding-right: 3px;
+}
+
+.path-mod-wiki .no-overflow {
+	padding: 1px;
+}
+
+.path-mod-workshop .wiki-diff-container .wiki-diff-heading, .wiki-diff-container .no-overflow {
+	border: 1px solid #D2D9E0;
+	padding: 10px;
+	margin-top: -1px;
+}
+
+.path-mod-workshop .collapsibleregion {
+	padding-left: 3px;
+}
+
+.path-mod-workshop #notice {
+	border: 0 none;
+}
+
+/* Workshop */
+
+.path-mod-workshop .userplan {
+	border: 1px solid #D2D9E0;
+}
+
+.path-mod-workshop .collapsibleregion .box {
+	margin: 10px;
+}
+
+
+/* Disabled */
+
+#page-content #region-main .region-content .generalbox h2 {
+	border-bottom: 0 none;
+}
+
+/*
+* User
+*/
+
+#page-user-files #page-content #region-main .region-content .generalbox {
+	border: 0;
+}
+
+#page-notes-index #page-content #region-main .region-content .generalbox {
+	border: 0;
+}
+
+#page-blog-external_blogs #page-content #region-main .region-content .box {
+	margin: 10px;
+}

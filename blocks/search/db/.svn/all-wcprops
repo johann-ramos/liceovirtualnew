@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/blocks/search/db
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/blocks/search/db/install.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/blocks/search/db/upgrade.php
+END
+upgradelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/blocks/search/db/upgradelib.php
+END
+install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/blocks/search/db/install.xml
+END

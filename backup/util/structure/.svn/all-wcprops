@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure
+END
+base_final_element.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/base_final_element.class.php
+END
+backup_optigroup.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/backup_optigroup.class.php
+END
+base_attribute.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/base_attribute.class.php
+END
+backup_nested_element.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/backup_nested_element.class.php
+END
+base_optigroup.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/base_optigroup.class.php
+END
+backup_structure_processor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/backup_structure_processor.class.php
+END
+base_nested_element.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/base_nested_element.class.php
+END
+backup_optigroup_element.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/backup_optigroup_element.class.php
+END
+backup_final_element.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/backup_final_element.class.php
+END
+backup_attribute.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/backup_attribute.class.php
+END
+restore_path_element.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/restore_path_element.class.php
+END
+base_processor.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/base_processor.class.php
+END
+base_atom.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/liceovirtualnew/!svn/ver/1/backup/util/structure/base_atom.class.php
+END

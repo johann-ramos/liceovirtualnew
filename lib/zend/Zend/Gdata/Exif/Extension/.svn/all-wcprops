@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/Exif/Extension
+END
+Flash.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/Exif/Extension/Flash.php
+END
+Make.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/Exif/Extension/Make.php
+END
+Tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/Exif/Extension/Tags.php
+END
+Time.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/Exif/Extension/Time.php
+END
+Model.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/Exif/Extension/Model.php
+END
+FocalLength.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/Exif/Extension/FocalLength.php
+END
+ImageUniqueId.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/Exif/Extension/ImageUniqueId.php
+END
+Distance.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/Exif/Extension/Distance.php
+END
+Exposure.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/Exif/Extension/Exposure.php
+END
+Iso.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/Exif/Extension/Iso.php
+END
+FStop.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Gdata/Exif/Extension/FStop.php
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/liceovirtualnew/!svn/ver/1/enrol
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/enrol/upgrade.txt
+END
+users.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/enrol/users.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/enrol/locallib.php
+END
+otherusers.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/enrol/otherusers.php
+END
+bulkchange.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/enrol/bulkchange.php
+END
+ajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/enrol/ajax.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/enrol/README.txt
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/enrol/renderer.php
+END
+users_forms.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/enrol/users_forms.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/enrol/index.php
+END
+instances.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/enrol/instances.php
+END
+bulkchange_forms.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/enrol/bulkchange_forms.php
+END
+externallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/enrol/externallib.php
+END

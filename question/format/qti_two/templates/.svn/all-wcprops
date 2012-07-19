@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/liceovirtualnew/!svn/ver/1/question/format/qti_two/templates
+END
+notimplemented.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/liceovirtualnew/!svn/ver/1/question/format/qti_two/templates/notimplemented.tpl
+END
+extendedText.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/liceovirtualnew/!svn/ver/1/question/format/qti_two/templates/extendedText.tpl
+END
+choiceMultiple.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/liceovirtualnew/!svn/ver/1/question/format/qti_two/templates/choiceMultiple.tpl
+END
+textEntry.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/liceovirtualnew/!svn/ver/1/question/format/qti_two/templates/textEntry.tpl
+END
+choice.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/liceovirtualnew/!svn/ver/1/question/format/qti_two/templates/choice.tpl
+END
+match.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/liceovirtualnew/!svn/ver/1/question/format/qti_two/templates/match.tpl
+END
+imsmanifest.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/liceovirtualnew/!svn/ver/1/question/format/qti_two/templates/imsmanifest.tpl
+END
+numerical.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/liceovirtualnew/!svn/ver/1/question/format/qti_two/templates/numerical.tpl
+END
+mmchoiceMultiple.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/liceovirtualnew/!svn/ver/1/question/format/qti_two/templates/mmchoiceMultiple.tpl
+END
+composite.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/liceovirtualnew/!svn/ver/1/question/format/qti_two/templates/composite.tpl
+END
+graphicGapMatch.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/liceovirtualnew/!svn/ver/1/question/format/qti_two/templates/graphicGapMatch.tpl
+END
+extendedText_simpleEssay.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/liceovirtualnew/!svn/ver/1/question/format/qti_two/templates/extendedText_simpleEssay.tpl
+END

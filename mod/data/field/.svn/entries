@@ -1,0 +1,64 @@
+10
+
+dir
+3
+http://mercury/svn/liceovirtualnew/mod/data/field
+http://mercury/svn/liceovirtualnew
+
+
+
+2012-06-14T11:38:39.682610Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f9563b45-dcfc-4bb1-9a11-3fbd7108bb97
+
+menu
+dir
+
+text
+dir
+
+checkbox
+dir
+
+number
+dir
+
+radiobutton
+dir
+
+picture
+dir
+
+date
+dir
+
+textarea
+dir
+
+file
+dir
+
+multimenu
+dir
+
+latlong
+dir
+
+url
+dir
+

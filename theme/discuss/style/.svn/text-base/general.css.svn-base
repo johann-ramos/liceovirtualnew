@@ -1,0 +1,380 @@
+/*
+* General HTML rules
+*/
+
+/* Links */
+
+a, a:visited {
+	color: #427EB4;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: #36A0FF;
+}
+
+a.nolink, a.nolink:visited, a.nolink:hover, a.nolink:active {
+	color: #717883;
+}
+
+#page-header .headermenu a, #page-header .headermenu a:visited {
+	color: #FBFCFD;
+	text-decoration: underline;
+}
+
+#page-header .headermenu a:hover, #page-header .headermenu a:active {
+	color: #FFFFFF;
+}
+
+#page-footer a, #page-footer a:visited {
+	color: #CBD2DC;
+}
+
+/* Inputs */
+
+button {
+	margin: 2px;
+	border: 1px solid #6C9CC7;
+	font-weight: 500;
+	padding: 0 1px;
+	background-color: #D2D9E0;
+}
+
+button:hover {
+	background-color: #B8CDDE;
+}
+
+button:active {
+	border: 1px solid: #4E7BA3;
+}
+
+input[type=button] {
+	margin: 2px;
+	border: 1px solid #6C9CC7;
+	font-weight: 500;
+	padding: 0 1px;
+	background-color: #D2D9E0;
+}
+
+input[type=button]:hover {
+	background-color: #B8CDDE;
+
+}
+
+input[type=button]:active {
+	border: 1px solid: #4E7BA3;
+}
+
+input[type=submit] {
+	margin: 2px;
+	border: 1px solid #6C9CC7;
+	font-weight: 500;
+	padding: 0 1px;
+	background-color: #D2D9E0;
+}
+
+input[type=submit]:hover {
+	background-color: #B8CDDE;
+
+}
+
+input[type=submit]:active {
+	border: 1px solid: #4E7BA3;
+}
+
+input[type=text] {
+	background-color: #FBFCFD;
+	border: 1px solid #D2D9E0;
+}
+
+input[type=text]:focus {
+	background-color: #FFFFFF;
+	border: 1px solid #6C9CC7;
+}
+
+input[type=file] {
+	border: 1px solid #6C9CC7;
+	background-color: #FBFCFD;
+}
+
+input[type=file]:focus {
+	border: 1px solid: #4E7BA3;
+	background-color: #FFFFFF;
+}
+
+input[type=password] {
+	background-color: #FBFCFD;
+	border: 1px solid #D2D9E0;
+}
+
+input[type=password]:focus {
+	background-color: #FFFFFF;
+	border: 1px solid #6C9CC7;
+}
+
+textarea {
+	background-color: #FBFCFD;
+	border: 1px solid #D2D9E0;
+}
+
+textarea:focus {
+	background-color: #FFFFFF;
+	border: 1px solid #6C9CC7;
+}
+
+select {
+	background-color: #FBFCFD;
+	border: 1px solid #D2D9E0;
+}
+
+select:focus {
+	background-color: #FFFFFF;
+	border: 1px solid #D2D9E0;
+}
+
+input[type=radio] {
+	margin-right: 5px;
+}
+
+input[type=checkbox] {
+	margin-right: 5px;
+}
+
+/* Standard HTML Elements */
+
+h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+
+h2 {
+	font-size: 22px;
+	padding-bottom: 2px;
+	border-bottom: 1px solid #D2D9E0;
+}
+
+acronym, abbr {
+	border: 0;
+}
+
+hr {
+	color: #D2D9E0;
+	height: 1px;
+}
+
+legend {
+	color: #1D3142;
+	padding: 0 2px;
+}
+
+blockquote {
+	background-color: #FBFCFD;
+	border: 1px dashed #D2D9E0;
+	padding: 5px 5px 5px 25px;
+	color: #717883;
+}
+
+address {
+	font-style: italic;
+}
+
+caption {
+	font-weight: 900;
+}
+
+th {
+	font-weight: 500;
+}
+
+tr.r0 {
+	background: none repeat scroll 0 0 #F3F5F7;
+}
+
+tr.r1 {
+	background: none repeat scroll 0 0 #FBFCFD;
+}
+
+/* Misc. HTML Tweaks */
+
+#page-header select {
+	background: none repeat scroll 0 0 #E5E9ED;
+	border: 1px solid #234B6F;
+}
+
+#page-header select:active {
+	background-color: #FBFCFD;
+}
+
+.navbar input[type=submit] {
+	margin: 0 0 0 2px;
+}
+
+.arrow, .arrow_button input {
+	color: #234B6F;
+}
+
+.feditor select {
+	margin-top: 5px;
+}
+
+select#menucapability {
+	margin: 3px 0;
+}
+
+.tag-management-form {
+	margin: 10px;
+}
+
+.generalbox {
+	margin: 0;
+}
+
+.categorypicker, .urlselect {
+	padding-top: 3px;
+}
+
+.generalbox {
+	border: 1px solid #D2D9E0;
+	padding: 3px;
+}
+
+.headermenu .langmenu {
+	font-size: inherit;
+	padding-top: 5px;
+}
+
+h1.headermain {
+	color: #234B6F;
+	margin: 15px 10px;
+}
+
+.headermenu {
+	font-size: 12px;
+}
+
+.mform fieldset	 {
+	border: 1px solid #D2D9E0;
+	margin-top: 1em;
+}
+
+span.ok {
+	color: #00AA00;
+}
+
+span.warning {
+	color: #FFAA00;
+}
+
+span.error {
+	color: #AA0000;
+}
+
+span.post-word-count {
+	margin-left: 2px;
+}
+
+h2.main {
+	padding-left: 2px;
+	margin-right: 1px;
+}
+
+form h2.main {
+	margin-right: 0;
+}
+
+
+.userprofile {
+	padding-left: 2px;
+}
+
+.paging {
+	padding: 4px;
+}
+
+div#intro {
+	margin: 10px;
+}
+
+div#chooseuser {
+	margin: 0 0 0 1px;
+	padding: 3px;
+	border: 0;
+}
+
+.form-buttons {
+	margin: 10px 0 0 10px;
+}
+
+
+
+.content h2 {
+	border: 0;
+	font-size: 123.1%;
+	font-weight: bold;
+}
+
+.content h1, .content h3, .content h4, .content h5, .content h6 {
+	font-weight: bold;
+}
+
+.filemanager-toolbar {
+	padding-top: 10px;
+}
+
+.capbox {
+	border: 0;
+}
+
+/*
+* YUI Tweaks
+*/
+
+
+/* General */
+
+/* This is Because .yui-panel-container is outside of #page - so it doesn't get the color rule and inherits from HTML */
+.yui-panel-container, .yui3-overlay, .yui3-widget {
+	color: #1D3142;
+}
+
+/* Buttons */
+
+.yui-skin-sam .yui-button, .yui-skin-sam .yui-button-hover {
+	background-image: none;
+	border: 0 none;
+}
+
+.yui-skin-sam .yui-button .first-child {
+	border: 0 none;
+}
+
+.yui-skin-sam .yui-button button, .yui-skin-sam .yui-button a, .yui-skin-sam .yui-button a:visited {
+	border: 1px solid #6C9CC7;
+	color: #1D3142;
+	font-size: 93%;
+	line-height: 2;
+	min-height: 2em;
+	padding: 0 10px;
+	margin-top: 1px;
+}
+
+.yui-skin-sam .yui-dialog .ft span.default button {
+	color: #1D3142;
+}
+
+
+.yui-skin-sam .yui-button-disabled {
+	border: 0 none;
+}
+
+.yui-skin-sam .yui-button-disabled .first-child {
+	border: 0 none;
+}
+
+.yui-skin-sam .yui-button-disabled button, .yui-skin-sam .yui-button-disabled a, .yui-skin-sam .yui-button-disabled a:visited {
+	border: 1px solid #808080;
+	color: #A6A6A6;
+	cursor: default;
+	margin-top: 1px;
+}
+
+/* File Picker */

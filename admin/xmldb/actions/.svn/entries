@@ -1,0 +1,246 @@
+10
+
+dir
+3
+http://mercury/svn/liceovirtualnew/admin/xmldb/actions
+http://mercury/svn/liceovirtualnew
+
+
+
+2012-06-14T11:38:39.682610Z
+1
+root
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f9563b45-dcfc-4bb1-9a11-3fbd7108bb97
+
+view_reserved_words
+dir
+
+edit_field
+dir
+
+view_table_php
+dir
+
+view_xml
+dir
+
+new_field
+dir
+
+check_indexes
+dir
+
+check_bigints
+dir
+
+edit_table
+dir
+
+edit_key
+dir
+
+XMLDBAction.class.php
+file
+
+
+
+
+2012-06-14T11:49:19.132379Z
+7593b9f476d2458fa2d2d640ec4cf0d3
+2012-06-14T11:38:39.682610Z
+1
+root
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9036
+
+revert_changes
+dir
+
+new_table
+dir
+
+unload_xml_file
+dir
+
+new_key
+dir
+
+edit_xml_file
+dir
+
+delete_field
+dir
+
+move_updown_field
+dir
+
+edit_field_save
+dir
+
+new_table_from_mysql
+dir
+
+delete_table
+dir
+
+view_structure_sql
+dir
+
+move_updown_table
+dir
+
+view_structure_xml
+dir
+
+delete_key
+dir
+
+edit_table_save
+dir
+
+move_updown_key
+dir
+
+generate_all_documentation
+dir
+
+edit_index
+dir
+
+save_xml_file
+dir
+
+new_index
+dir
+
+check_foreign_keys
+dir
+
+edit_xml_file_save
+dir
+
+create_xml_file
+dir
+
+generate_documentation
+dir
+
+delete_index
+dir
+
+move_updown_index
+dir
+
+edit_index_save
+dir
+
+XMLDBCheckAction.class.php
+file
+
+
+
+
+2012-06-14T11:49:19.132379Z
+85fc3c5a64a52c86e5b23bcd977764a0
+2012-06-14T11:38:39.682610Z
+1
+root
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8586
+
+view_field_xml
+dir
+
+load_xml_file
+dir
+
+view_table_sql
+dir
+
+view_table_xml
+dir
+
+view_structure_php
+dir
+
+view_key_xml
+dir
+
+check_defaults
+dir
+
+edit_key_save
+dir
+
+template
+dir
+
+main_view
+dir
+
+get_db_directories
+dir
+
+delete_xml_file
+dir
+
+load_xml_files
+dir
+
+view_index_xml
+dir
+

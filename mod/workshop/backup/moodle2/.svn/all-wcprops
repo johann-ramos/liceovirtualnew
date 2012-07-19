@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/mod/workshop/backup/moodle2
+END
+restore_workshop_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/liceovirtualnew/!svn/ver/1/mod/workshop/backup/moodle2/restore_workshop_activity_task.class.php
+END
+backup_workshop_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/liceovirtualnew/!svn/ver/1/mod/workshop/backup/moodle2/backup_workshop_activity_task.class.php
+END
+restore_workshop_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/liceovirtualnew/!svn/ver/1/mod/workshop/backup/moodle2/restore_workshop_stepslib.php
+END
+backup_workshop_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/liceovirtualnew/!svn/ver/1/mod/workshop/backup/moodle2/backup_workshop_stepslib.php
+END
+backup_workshop_settingslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/liceovirtualnew/!svn/ver/1/mod/workshop/backup/moodle2/backup_workshop_settingslib.php
+END

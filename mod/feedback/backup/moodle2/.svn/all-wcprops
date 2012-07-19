@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/backup/moodle2
+END
+backup_feedback_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/backup/moodle2/backup_feedback_stepslib.php
+END
+backup_feedback_settingslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/backup/moodle2/backup_feedback_settingslib.php
+END
+restore_feedback_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/backup/moodle2/restore_feedback_activity_task.class.php
+END
+backup_feedback_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/backup/moodle2/backup_feedback_activity_task.class.php
+END
+restore_feedback_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/liceovirtualnew/!svn/ver/1/mod/feedback/backup/moodle2/restore_feedback_stepslib.php
+END

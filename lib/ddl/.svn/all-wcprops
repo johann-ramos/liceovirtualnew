@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/liceovirtualnew/!svn/ver/1/lib/ddl
+END
+mssql_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/lib/ddl/mssql_sql_generator.php
+END
+sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/lib/ddl/sql_generator.php
+END
+sqlite_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/ddl/sqlite_sql_generator.php
+END
+mysql_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/lib/ddl/mysql_sql_generator.php
+END
+oracle_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/ddl/oracle_sql_generator.php
+END
+postgres_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/liceovirtualnew/!svn/ver/1/lib/ddl/postgres_sql_generator.php
+END
+database_manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/lib/ddl/database_manager.php
+END

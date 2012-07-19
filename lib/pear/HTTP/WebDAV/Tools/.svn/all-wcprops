@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/HTTP/WebDAV/Tools
+END
+_parse_lockinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/HTTP/WebDAV/Tools/_parse_lockinfo.php
+END
+_parse_proppatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/HTTP/WebDAV/Tools/_parse_proppatch.php
+END
+_parse_propfind.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/HTTP/WebDAV/Tools/_parse_propfind.php
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/liceovirtualnew/!svn/ver/1/admin/roles
+END
+check.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/admin/roles/check.php
+END
+allow.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/admin/roles/allow.php
+END
+override.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/admin/roles/override.php
+END
+permissions_forms.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/liceovirtualnew/!svn/ver/1/admin/roles/permissions_forms.php
+END
+managetabs.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/admin/roles/managetabs.php
+END
+assign.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/admin/roles/assign.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/admin/roles/lib.php
+END
+usersroles.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/admin/roles/usersroles.php
+END
+manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/admin/roles/manage.php
+END
+define.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/admin/roles/define.php
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/admin/roles/module.js
+END
+admins.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/admin/roles/admins.php
+END
+permissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/admin/roles/permissions.php
+END

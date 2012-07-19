@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/NamingConventions
+END
+UpperCaseConstantNameSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/NamingConventions/UpperCaseConstantNameSniff.php
+END
+ValidClassNameSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/NamingConventions/ValidClassNameSniff.php
+END
+ValidFunctionNameSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/NamingConventions/ValidFunctionNameSniff.php
+END
+ValidVariableNameSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/PHP/CodeSniffer/Standards/Moodle/Sniffs/NamingConventions/ValidVariableNameSniff.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Response/SecurityTokenServer
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Response/SecurityTokenServer/Exception.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Response/SecurityTokenServer/Interface.php
+END
+GetTokensResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Response/SecurityTokenServer/GetTokensResponse.php
+END
+SecurityTokenResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/liceovirtualnew/!svn/ver/1/lib/zend/Zend/Service/DeveloperGarden/Response/SecurityTokenServer/SecurityTokenResponse.php
+END

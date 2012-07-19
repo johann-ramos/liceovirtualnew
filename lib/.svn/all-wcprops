@@ -1,0 +1,641 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/liceovirtualnew/!svn/ver/1/lib
+END
+configonlylib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/configonlylib.php
+END
+rsslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/lib/rsslib.php
+END
+questionlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/lib/questionlib.php
+END
+webdavlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/webdavlib.php
+END
+wordlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/wordlist.txt
+END
+listlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/lib/listlib.php
+END
+dmllib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/lib/dmllib.php
+END
+portfoliolib.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/lib/portfoliolib.php
+END
+xmlize.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/lib/xmlize.php
+END
+profilerlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/lib/profilerlib.php
+END
+dtllib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/lib/dtllib.php
+END
+md5.js
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/liceovirtualnew/!svn/ver/1/lib/md5.js
+END
+outputrenderers.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/lib/outputrenderers.php
+END
+memcached.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/lib/memcached.class.php
+END
+filterlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/filterlib.php
+END
+formslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/formslib.php
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/lib/upgrade.txt
+END
+plagiarismlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/plagiarismlib.php
+END
+javascript-static.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/lib/javascript-static.js
+END
+outputactions.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/outputactions.php
+END
+markdown.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/markdown.php
+END
+csshover.htc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/csshover.htc
+END
+statslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/statslib.php
+END
+setuplib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/setuplib.php
+END
+cronlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/lib/cronlib.php
+END
+tokeniserlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/lib/tokeniserlib.php
+END
+outputrequirementslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/lib/outputrequirementslib.php
+END
+simpletestcoveragelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/lib/simpletestcoveragelib.php
+END
+installlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/lib/installlib.php
+END
+womenslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/womenslib.php
+END
+outputfactories.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/lib/outputfactories.php
+END
+weblib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/lib/weblib.php
+END
+googleapi.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/googleapi.php
+END
+moodlelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/moodlelib.php
+END
+wiki_to_markdown.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/lib/wiki_to_markdown.php
+END
+htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/liceovirtualnew/!svn/ver/1/lib/htaccess
+END
+oauthlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/oauthlib.php
+END
+odbc.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/liceovirtualnew/!svn/ver/1/lib/odbc.php
+END
+gradelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/gradelib.php
+END
+licenselib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/lib/licenselib.php
+END
+messagelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/lib/messagelib.php
+END
+conditionlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/lib/conditionlib.php
+END
+resourcelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/lib/resourcelib.php
+END
+lexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/liceovirtualnew/!svn/ver/1/lib/lexer.php
+END
+odslib.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/lib/odslib.class.php
+END
+gdlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/liceovirtualnew/!svn/ver/1/lib/gdlib.php
+END
+customcheckslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/lib/customcheckslib.php
+END
+grouplib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/grouplib.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/lib/index.html
+END
+.bak
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/liceovirtualnew/!svn/ver/1/lib/.bak
+END
+authlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/lib/authlib.php
+END
+excellib.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/lib/excellib.class.php
+END
+html2text.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/html2text.php
+END
+searchlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/searchlib.php
+END
+eaccelerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/lib/eaccelerator.class.php
+END
+emptyfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/emptyfile.php
+END
+clilib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/lib/clilib.php
+END
+setup.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/liceovirtualnew/!svn/ver/1/lib/setup.php
+END
+datalib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/lib/datalib.php
+END
+pdflib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/lib/pdflib.php
+END
+html2text_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/lib/html2text_readme.txt
+END
+completionlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/completionlib.php
+END
+flickrlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/flickrlib.php
+END
+pagelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/lib/pagelib.php
+END
+outputrenderers.php.bak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/lib/outputrenderers.php.bak
+END
+javascript.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/lib/javascript.php
+END
+filelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/lib/filelib.php
+END
+enrollib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/enrollib.php
+END
+ldaplib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/lib/ldaplib.php
+END
+xhtml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/liceovirtualnew/!svn/ver/1/lib/xhtml.xsl
+END
+uploadlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/uploadlib.php
+END
+thirdpartylibs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/lib/thirdpartylibs.xml
+END
+boxlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/lib/boxlib.php
+END
+adminlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/adminlib.php
+END
+simpletestlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/simpletestlib.php
+END
+recaptchalib.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/lib/recaptchalib.php
+END
+blocklib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/blocklib.php
+END
+timezone.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/timezone.txt
+END
+validateurlsyntax.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/lib/validateurlsyntax.php
+END
+pluginlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/pluginlib.php
+END
+csvlib.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/lib/csvlib.class.php
+END
+navigationlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/navigationlib.php
+END
+graphlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/graphlib.php
+END
+olson.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/liceovirtualnew/!svn/ver/1/lib/olson.php
+END
+eventslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/eventslib.php
+END
+session-test.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/lib/session-test.php
+END
+mathslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/mathslib.php
+END
+kses.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/liceovirtualnew/!svn/ver/1/lib/kses.php
+END
+outputcomponents.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/lib/outputcomponents.php
+END
+externallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/lib/externallib.php
+END
+sessionlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/lib/sessionlib.php
+END
+editorlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/editorlib.php
+END
+upgradelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/lib/upgradelib.php
+END
+tablelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/tablelib.php
+END
+textlib.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/textlib.class.php
+END
+base32.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/lib/base32.php
+END
+cookies.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/lib/cookies.js
+END
+modinfolib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/lib/modinfolib.php
+END
+outputlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/outputlib.php
+END
+deprecatedlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/deprecatedlib.php
+END
+accesslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/accesslib.php
+END
+soaplib.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/lib/soaplib.php
+END
+ddllib.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/liceovirtualnew/!svn/ver/1/lib/ddllib.php
+END
+default.ttf
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/lib/default.ttf
+END
+environmentlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/lib/environmentlib.php
+END
+componentlib.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/lib/componentlib.class.php
+END

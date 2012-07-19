@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/enrol/imsenterprise/examples
+END
+example.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/liceovirtualnew/!svn/ver/1/enrol/imsenterprise/examples/example.xml
+END
+example-grouped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/liceovirtualnew/!svn/ver/1/enrol/imsenterprise/examples/example-grouped.xml
+END
+example-oneline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/liceovirtualnew/!svn/ver/1/enrol/imsenterprise/examples/example-oneline.xml
+END

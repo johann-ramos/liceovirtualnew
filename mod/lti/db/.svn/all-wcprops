@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/liceovirtualnew/!svn/ver/1/mod/lti/db
+END
+install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/mod/lti/db/install.xml
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/mod/lti/db/access.php
+END
+log.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/mod/lti/db/log.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/mod/lti/db/upgrade.php
+END

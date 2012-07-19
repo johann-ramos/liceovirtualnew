@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/liceovirtualnew/!svn/ver/1/lib/phpmailer
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/lib/phpmailer/README
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/lib/phpmailer/class.smtp.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/phpmailer/LICENSE
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/lib/phpmailer/changelog.txt
+END
+moodle_phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/liceovirtualnew/!svn/ver/1/lib/phpmailer/moodle_phpmailer.php
+END
+class.smtp.php.bak
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/phpmailer/class.smtp.php.bak
+END
+README_MOODLE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/lib/phpmailer/README_MOODLE.txt
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/lib/phpmailer/index.html
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/liceovirtualnew/!svn/ver/1/lib/phpmailer/class.phpmailer.php
+END

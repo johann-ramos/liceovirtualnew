@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/mod/imscp/backup/moodle2
+END
+restore_imscp_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/liceovirtualnew/!svn/ver/1/mod/imscp/backup/moodle2/restore_imscp_activity_task.class.php
+END
+backup_imscp_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/liceovirtualnew/!svn/ver/1/mod/imscp/backup/moodle2/backup_imscp_activity_task.class.php
+END
+restore_imscp_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/liceovirtualnew/!svn/ver/1/mod/imscp/backup/moodle2/restore_imscp_stepslib.php
+END
+backup_imscp_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/liceovirtualnew/!svn/ver/1/mod/imscp/backup/moodle2/backup_imscp_stepslib.php
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/minify/lib/Minify
+END
+CSS.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/lib/minify/lib/Minify/CSS.php
+END
+ImportProcessor.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/liceovirtualnew/!svn/ver/1/lib/minify/lib/Minify/ImportProcessor.php
+END
+Lines.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/lib/minify/lib/Minify/Lines.php
+END
+Build.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/lib/minify/lib/Minify/Build.php
+END
+Logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/minify/lib/Minify/Logger.php
+END
+CommentPreserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/liceovirtualnew/!svn/ver/1/lib/minify/lib/Minify/CommentPreserver.php
+END
+Source.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/minify/lib/Minify/Source.php
+END
+YUICompressor.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/lib/minify/lib/Minify/YUICompressor.php
+END
+HTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/liceovirtualnew/!svn/ver/1/lib/minify/lib/Minify/HTML.php
+END
+Packer.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/liceovirtualnew/!svn/ver/1/lib/minify/lib/Minify/Packer.php
+END

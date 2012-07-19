@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/HTML/QuickForm/Rule
+END
+Compare.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/HTML/QuickForm/Rule/Compare.php
+END
+Email.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/HTML/QuickForm/Rule/Email.php
+END
+Regex.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/HTML/QuickForm/Rule/Regex.php
+END
+Callback.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/HTML/QuickForm/Rule/Callback.php
+END
+Range.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/HTML/QuickForm/Rule/Range.php
+END
+Required.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/liceovirtualnew/!svn/ver/1/lib/pear/HTML/QuickForm/Rule/Required.php
+END

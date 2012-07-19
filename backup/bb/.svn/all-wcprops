@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/liceovirtualnew/!svn/ver/1/backup/bb
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/backup/bb/README.txt
+END
+restore_bb.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/backup/bb/restore_bb.php
+END
+bb6_to_moodle.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/backup/bb/bb6_to_moodle.xsl
+END
+bb5.5_to_moodle.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/backup/bb/bb5.5_to_moodle.xsl
+END
+xsl_emulate_xslt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/liceovirtualnew/!svn/ver/1/backup/bb/xsl_emulate_xslt.inc
+END

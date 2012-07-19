@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/mod/wiki/backup/moodle2
+END
+restore_wiki_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/liceovirtualnew/!svn/ver/1/mod/wiki/backup/moodle2/restore_wiki_activity_task.class.php
+END
+backup_wiki_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/liceovirtualnew/!svn/ver/1/mod/wiki/backup/moodle2/backup_wiki_activity_task.class.php
+END
+restore_wiki_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/liceovirtualnew/!svn/ver/1/mod/wiki/backup/moodle2/restore_wiki_stepslib.php
+END
+backup_wiki_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/liceovirtualnew/!svn/ver/1/mod/wiki/backup/moodle2/backup_wiki_stepslib.php
+END
+backup_wiki_settingslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/liceovirtualnew/!svn/ver/1/mod/wiki/backup/moodle2/backup_wiki_settingslib.php
+END

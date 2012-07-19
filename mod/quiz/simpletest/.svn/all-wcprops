@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/simpletest
+END
+testlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/simpletest/testlib.php
+END
+testquizdisplayoptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/simpletest/testquizdisplayoptions.php
+END
+testaccessrules.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/simpletest/testaccessrules.php
+END
+testeditlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/simpletest/testeditlib.php
+END
+testlocallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/simpletest/testlocallib.php
+END
+testquizobj.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/liceovirtualnew/!svn/ver/1/mod/quiz/simpletest/testquizobj.php
+END

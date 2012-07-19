@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan
+END
+base_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan/base_task.class.php
+END
+restore_plan.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan/restore_plan.class.php
+END
+restore_step.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan/restore_step.class.php
+END
+restore_structure_step.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan/restore_structure_step.class.php
+END
+backup_plan.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan/backup_plan.class.php
+END
+backup_step.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan/backup_step.class.php
+END
+backup_structure_step.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan/backup_structure_step.class.php
+END
+restore_execution_step.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan/restore_execution_step.class.php
+END
+backup_execution_step.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan/backup_execution_step.class.php
+END
+base_plan.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan/base_plan.class.php
+END
+base_step.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan/base_step.class.php
+END
+restore_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan/restore_task.class.php
+END
+backup_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/liceovirtualnew/!svn/ver/1/backup/util/plan/backup_task.class.php
+END

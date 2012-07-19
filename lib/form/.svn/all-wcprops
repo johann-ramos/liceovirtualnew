@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/liceovirtualnew/!svn/ver/1/lib/form
+END
+url.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/liceovirtualnew/!svn/ver/1/lib/form/url.js
+END
+form.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/form/form.js
+END
+selectwithlink.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/lib/form/selectwithlink.php
+END
+searchableselector.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/liceovirtualnew/!svn/ver/1/lib/form/searchableselector.php
+END
+hidden.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/lib/form/hidden.php
+END
+group.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/lib/form/group.php
+END
+modvisible.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/lib/form/modvisible.php
+END
+selectyesno.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/lib/form/selectyesno.php
+END
+radio.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/liceovirtualnew/!svn/ver/1/lib/form/radio.php
+END
+tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/form/tags.php
+END
+filemanager.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/lib/form/filemanager.js
+END
+url.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/liceovirtualnew/!svn/ver/1/lib/form/url.php
+END
+submit.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/lib/form/submit.php
+END
+warning.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/lib/form/warning.php
+END
+filemanager.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/lib/form/filemanager.php
+END
+grading.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/liceovirtualnew/!svn/ver/1/lib/form/grading.php
+END
+filepicker.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/lib/form/filepicker.php
+END
+textarea.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/form/textarea.php
+END
+dateselector.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/lib/form/dateselector.php
+END
+selectgroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/liceovirtualnew/!svn/ver/1/lib/form/selectgroups.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/form/file.php
+END
+passwordunmask.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/lib/form/passwordunmask.php
+END
+modgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/form/modgrade.php
+END
+cancel.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/lib/form/cancel.php
+END
+editor.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/lib/form/editor.php
+END
+static.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/lib/form/static.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/lib/form/header.php
+END
+format.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/lib/form/format.php
+END
+recaptcha.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/lib/form/recaptcha.php
+END
+datetimeselector.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/lib/form/datetimeselector.php
+END
+password.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/form/password.php
+END
+filepicker.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/lib/form/filepicker.js
+END
+questioncategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/liceovirtualnew/!svn/ver/1/lib/form/questioncategory.php
+END
+htmleditor.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/lib/form/htmleditor.php
+END
+button.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/lib/form/button.php
+END
+select.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/liceovirtualnew/!svn/ver/1/lib/form/select.php
+END
+searchableselector.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/liceovirtualnew/!svn/ver/1/lib/form/searchableselector.js
+END
+advcheckbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/lib/form/advcheckbox.php
+END
+submitlink.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/liceovirtualnew/!svn/ver/1/lib/form/submitlink.php
+END
+text.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/liceovirtualnew/!svn/ver/1/lib/form/text.php
+END
+duration.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/form/duration.php
+END
+checkbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/lib/form/checkbox.php
+END

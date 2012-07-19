@@ -1,0 +1,464 @@
+@charset "UTF-8";
+
+/* ____________________________________________________________________  content */
+
+body#page-site-index .sitetopic {
+	border:none !important;	
+	padding:none;
+	background:none;
+}
+body#page-site-index .sitetopic h2 {
+	margin-top: 0px; 
+	padding-top: 0px;
+}
+
+ul.topics li.section, ul.weeks li.section {
+	margin-top: 11px !important;	
+}
+ul.topics li.section div.content, ul.weeks li.section div.content {
+	padding-top: 0px;	
+}
+
+.coursebox {width: auto;margin-bottom: 11px; padding: 5px;}
+.coursebox .info {float: none;width: auto;}
+.coursebox .info h3 {padding: 5px; }
+.coursebox .info h3 a {display: block}
+.coursebox .summary {float: none; padding: 11px 5px 5px 5px; width:auto; font-size:11px;}
+.coursebox .summary p {padding: 0px; margin: 0px; font-size: 11px;}
+.coursebox .summary .enrolmenticons { float: none; padding-top: 6px;}
+.coursebox .summary .category {text-align:left;padding-top: 11px; float:none;}
+.coursebox .teachers li {list-style-type:circle;padding:0;margin:0; font-size: 11px;}
+.coursebox .teachers {padding: 0px; margin: 11px 0px 0px 20px;}
+
+/* ____________________________________________________________________  headings and text */
+
+h1, h2, h3, h4, h5 {
+	font-family: "Avant Garde",Tahoma,Arial,Helvetica,sans-serif;
+}
+div#header h1, div#page-header h1 {
+	font-size: 16px;
+	font-weight: bold;
+	font-family: "Avant Garde",Tahoma,Arial,Helvetica,sans-serif;
+	color: #ffffff;
+	position:absolute;
+	margin: 0px 0px 0px 0px;	
+	padding: 0px;
+	top: 14px;
+	left: 20px;
+}
+h2, h2.main {
+	font-size:16px;
+	padding: 5px 0px 3px 0px;
+	margin: 10px 0px 10px 0px;
+}
+.block h2, .dockeditempanel_hd h2 {
+	font-size: 12px;	
+}
+.block_course_summary h2 {
+	margin:0px;
+}
+h2.headingblock {
+	font-size: 14px;
+	color: #ffffff !important;	
+	margin-top:0px;
+}
+div.dockeditem h2 {
+	margin:0px;	
+}
+blockquote {
+	padding: 15px 0px 0px 20px;
+	font-size: 11px;
+}
+span.tab {margin-left: 25px; }
+
+h3 {
+	font-size:14px;
+}
+h3.weekdates, h3.sectionname, h2.headingblock {
+	padding: 5px !important;
+}
+h3.sectionname, h3.weekdates {
+	margin-top:5px;	
+}
+.forumnodiscuss {font-size: 11px; padding-top: 6px;}
+li#section-0 h3.sectionname {
+	border:none;
+	background:none;	
+}
+div.coursebox h3.name {
+	margin: 0px;
+	font-size:12px;	
+}
+div.left.side, div.right.side {
+	padding-top: 10px; 
+	padding-bottom: 5px;	
+}
+h3.weekdates, h3.sectionname, div.left.side {
+	font-size: 12px !important;
+	font-weight:bold;	
+}
+div.summary {
+	padding:none;	
+}
+h4, h5 {
+	font-size:12px;
+	font-weight: bold;
+	padding: 5px 0px 3px 0px;
+	margin: 10px 0px 10px 0px;
+}
+p{
+	color: #333333;
+	font-size:12px;
+	padding: 3px 0px 2px 0px;
+	margin: 10px 0px 10px 0px;
+}
+.block .content div, #region-pre p, #region-post p  {
+	font-size:11px !important;
+}
+
+/* ____________________________________________________________________  quiz */
+
+div.que {
+	margin-top: 15px;	
+}
+#page-mod-quiz-edit div.quizcontents {
+	width: 65%; /* to account for padding/margin knocking it down */	
+}
+/* ____________________________________________________________________  lists */
+ul, dl, ol {
+	color: #333333;
+	font-size:11px;
+}
+dt {
+	color: #193a3c;
+	font-size:10px;
+	font-weight: bold;
+}
+dd {
+	margin-bottom: 5px;	
+	padding-bottom: 5px;
+	border-bottom: 1px solid #b2b4b7;
+	font-size:10px;
+}
+
+dt.ui-accordion-header, dd.ui-accordion-content, dd p {
+	font-size:10px;	
+}
+dd p { color:#999999}
+
+div.content ul.section.img-text {
+	margin:0px !important;
+	padding:0px;	
+}
+
+ul.icons {margin: 0; padding: 0;}
+ul.icons li {margin: 2px; position: relative; padding: 4px 0; cursor: pointer; float: left;  list-style: none;}
+ul.icons span.ui-icon {float: left; margin: 0 4px;}
+
+/* ____________________________________________________________________  general text / layout formatting etc */
+
+.important { font-weight: bold; color:#C6006F; }
+.bold {font-weight: bold;}
+.italic {font-style: italic;}
+.fineprint {font-size: 9px;}
+
+h3.ui-accordion-header {
+	font-size:13px;
+	font-weight:bold;
+}
+
+div#page-content a:link, div#page-content a:visited, #page-mod-quiz-edit .questionbankwindow div.header a {
+	text-decoration:none;
+}
+div#page-content a:hover, div#page-content a:active {
+	text-decoration:none;
+}
+
+div#footer p {
+	font-size: 9px;
+	color:#999;
+}	
+
+div#loginDetails a:link, div#loginDetails a:visited, div#page-header a:link, div#page-header a:visited {
+	text-decoration:none;
+}
+div#breadcrumbs a:link, div#breadcrumbs a:visited, div.navbar a:link, div.navbar a:visited {
+	text-decoration:none;
+}
+div#loginDetails a:hover, 
+div#loginDetails a:active, 
+div#breadcrumbs a:hover, 
+div#breadcrumbs a:active, 
+div#page-header a:hover, 
+div#page-header a:active {
+	text-decoration:none;	
+}
+.categorybox .category { 
+	font-size:12px;
+}
+.generalbox {padding: 5px; margin-bottom: 10px;}
+div.capabilitysearchui {
+	margin: 15px auto auto auto;	
+}
+div.content {
+	padding-bottom: 15px;	
+}
+#page-mod-quiz-edit .questionbankwindow div.header {
+	background-color: inherit !important;
+}
+div.forumsearch img.iconhelp {
+	margin-top: -3px !important;
+}	
+div#page-footer div.logininfo {
+	color: #333;
+	font-size: 11px;	
+}
+img.iconhelp {
+	margin-top: -3px;	
+}
+
+li.section.current {
+	background:none;
+}
+li.section.current .content h3.sectionname {
+}
+li#section-0 div.content ul.section {
+	font-weight:normal ;	
+}
+li.activity {
+	margin-top: 3px !important;	
+}
+li.activity img {
+	margin-top: -3px !important;	
+}
+.block_recent_activity p.activity {
+	border-bottom: 1px dotted #cccccc;	
+	margin: 3px auto 3px auto;
+}
+.block_recent_activity h3.main {
+	font-size:11px;
+	padding: 4px;
+}
+
+table.progress_bar_table {width:100%;}
+
+
+/* ____________________________________________________________________  events */
+table.event td.topic div.name {
+	font-size:12px;
+	font-weight: bold;
+}
+
+
+/* ____________________________________________________________________  tabs */
+
+.tabtree { margin-bottom: 22px; border-bottom: 1px solid #ccc;}
+.tabtree a {padding: 5px 11px 5px 11px; border-bottom:none !important;}
+.tabtree ul li.here ul { border-bottom: 1px solid #ccc; margin-top: 11px; padding-bottom:5px; width: auto; }
+
+/* ____________________________________________________________________  tables */
+table.generaltable, table.list {
+	font-size: 12px;	
+}
+table.generaltable {
+	width: 100%;	
+}
+table.rolecap {
+	margin: 15px auto auto auto;
+	width: 100%;	
+}
+
+table.ui-widget {
+	margin: 1em 0; border-collapse: collapse; width: 100%; 
+}
+table.ui-widget td {
+	border: 1px solid #cccccc; text-align: left; 
+}
+table.ui-widget td.empty {border:none;}
+table.ui-widget td, table.ui-widget th {
+	font-size: 11px;
+	padding: .6em 10px;
+}
+table table.nestedTable td {
+	border:none;
+	border-bottom: 1px dotted #cccccc;	
+}
+
+th span.fine {
+	font-size: 10px;
+	font-weight:normal;
+}
+
+div.br {
+	padding: 0px 0px 20px 0px; clear:both; border-top: 1px dotted #c6d7e7; margin-top: 15px;
+}	
+
+
+div.ui-accordion-content-active {background:none;background-color:none;}
+
+/* ____________________________________________________________________  forms */
+
+fieldset {
+	padding: 10px;
+	font-size: 12px;
+	margin: 10px auto 10px auto !important;
+	border-color: #cccccc !important;
+}
+fieldset div {
+	padding: 5px;	
+}
+legend {
+	font-size: 12px;
+	font-weight: normal;	
+}
+div.form-multicheckbox li {
+	padding: 2px;	
+}
+label {
+	padding-left: 2px;	
+}
+div.searchform fieldset {
+	padding-top: 10px;
+	padding-bottom: 5px;	
+}
+fieldset.coursesearchbox {
+	border:none;	
+}
+fieldset.invisiblefieldset {
+	margin:0px !important;
+	border:0px;
+	background:none;	
+}
+
+
+/* ____________________________________________________________________  forums and blogs  */
+
+div.forumpost {
+	width:100%;	
+	border:none;
+	margin-top: 15px;
+}
+div.forumpost div.header {
+	width: auto;	
+}
+div.forumpost div.topic {
+	font-size: 12px;
+	padding-top: 2px;
+}
+div.author, td.author, div.tags, div.commands, div.audience {
+	font-size:10px;
+	font-weight:normal;	
+}
+div.row.side {
+	margin-top: 5px;	
+}
+div.forumpost div.content {
+	border-top:none;
+	padding: 5px;	
+}
+div.indent {
+	margin-left:43px !important;	
+}
+
+td.topic div.subject {
+	font-weight: bold;	
+}
+table.blog_entry {
+	border:inherit;	
+	margin-top: 15px;
+}
+table.blog_entry thead, table.blog_entry tbody {
+	border:none;	
+}
+table.forumheaderlist, table.forumheaderlist th, table.forumheaderlist td {
+	border-collapse:collapse !important;
+	border-color: inherit !important;	
+	border-width: 1px !important;
+}
+
+
+/* ____________________________________________________________________  calendars */
+
+div.minicalendarblock h3 {
+	font-size: 11px;
+	padding: 5px;	
+	text-align: center;
+}
+div#dock table.minicalendar {
+	font-size: 10px;	
+	margin-top: 5px;
+}
+div#dock table.minicalendar td, div#dock table.minicalendar th {
+	padding: 2px;	
+}
+div.maincalendar div.header {
+	padding: 5px;
+}
+div.calendar-controls h1 {
+	margin: 0px;	
+}
+.calendartable th {
+	border:none;
+	padding-bottom:8px !important;
+}
+.calendartable .dayblank, .calendartable .nottoday {
+	border:0px !important;	
+}
+div.calendar-controls {
+	padding: 2px;	
+	font-size: 11px;
+	text-align:center;	
+}
+div.maincalendar a.arrow_link {
+	margin-top: 3px;
+}
+div.calendar-controls .clearer { 
+	padding-top:0px !important; 
+}
+td.calendar_event_global{background-color:#e5f6cc;background-image:none;}
+td.calendar_event_course{background-color:#ffe1d1;background-image:none;}
+td.calendar_event_group{background-color:#fff5ce;background-image:none;}
+td.calendar_event_user{background-color:#dbf0f4;background-image:none;}
+
+/* ____________________________________________________________________  additional functionality */
+
+div#introToggle {
+	font-size: 10px;
+	font-weight: normal;
+}
+.hideMe {display:none !important;}
+.showMe {display:block !important;}
+
+
+/* ____________________________________________________________________  special/requested formatting for course sites */
+
+/* on screen markup and code */
+pre, code {
+	font-family: "Courier New", Courier, monospace;
+	border: 1px solid #cccccc;
+	padding: 15px;
+	display:block;
+	font-size:11px;	
+}
+
+/* easy to make buttons */
+ul.buttons {
+	padding:10px 0px 10px 0px;
+	margin: 10px 0px 10px 0px;
+}
+ul.buttons li {
+	list-style:none;
+	display:inline;
+	padding: 0px 10px 0px 0px;	
+}
+ul.buttons li a {
+	padding: 4px;
+	text-align: center;	
+}
+
+/* bordering photos in content */
+img.content {
+	margin: 5px 20px 20px 20px !important; 
+	padding: 3px;
+	border: 1px solid #cccccc;	
+}

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/liceovirtualnew/!svn/ver/1/grade/grading
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/liceovirtualnew/!svn/ver/1/grade/grading/lib.php
+END
+pick.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/liceovirtualnew/!svn/ver/1/grade/grading/pick.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/liceovirtualnew/!svn/ver/1/grade/grading/renderer.php
+END
+manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/liceovirtualnew/!svn/ver/1/grade/grading/manage.php
+END
+pick_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/liceovirtualnew/!svn/ver/1/grade/grading/pick_form.php
+END
