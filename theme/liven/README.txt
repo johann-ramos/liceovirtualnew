@@ -1,1 +1,0 @@
-This is a two column Moodle 2.x theme. To install, upload to your /theme folder. @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later

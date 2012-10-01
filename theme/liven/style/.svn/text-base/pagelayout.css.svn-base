@@ -1,8 +1,0 @@
-.side-pre-only #page-content #region-main {
-    margin-left: 250px;
-}
-
-#page-content #region-pre {
-    width: 250px;
-}
-
