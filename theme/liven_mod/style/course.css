@@ -1,0 +1,132 @@
+/** inside  of course **/
+ul.topics, ul.weeks {
+	margin: 0px;
+}
+
+.path-course-view .course-content li.section {
+    border: 0px solid #eee;
+    border-bottom: 1px solid #eee;
+    background: transparent !important;
+}
+
+.path-course-view .course-content .side {
+    padding: 5px 0;
+}
+
+#page-course-view-weeks .weekdates {
+    font-size: 1em;
+    font-weight: normal;
+    color: #777;
+    padding: 2px;
+}
+
+.course-content .main, .course-content .main.section {
+  background:transparent;
+  background-color: transparent;
+ }
+ 
+.course-content ul li.section, .course-content ul.topics li.section {
+      margin: 0px 0 0;
+      padding-bottom: 15px;
+      padding-top: 15px;
+}
+
+.course-content ul li#section-0  {
+	padding-bottom: 35px;
+}
+
+/*current topic hightlight */
+.course-content .current, .course-content .main.section.current {
+ 	 background-color: #fff;
+ }
+
+.ie7 .course-content .current {
+	background: #eee;
+}
+
+.path-course-view .course-content .side {
+    color: #CCCCCC;
+    font-size: 16px;
+    font-weight: 300;
+    padding: 0 0;
+}
+
+.course-content .current .left.side {
+    background: #FFE397;
+    border: 1px solid #CCCCCC;
+    box-shadow: 0 1px 4px #CCCCCC;
+    margin-right: 10px;
+    margin-top: -7px;
+    padding: 5px 0;
+}
+
+.course-content .current .left.side {
+	color: #333;
+} 
+ 
+.course-content .main .content {
+    padding: 0px 0px;
+    background:transparent;
+  background-color: transparent;
+}
+
+
+span.completionprogress {
+    font-size: 11px;
+    font-weight: 200;
+	padding-top: 10px;
+}
+
+h3.sectionname {
+	margin-bottom: .5em;
+}
+
+.course-content .section li.activity {
+	padding: 3px 0px;
+}
+
+#section-0 ul.section, ul.section {
+	margin: 0 0;
+}
+
+/*new 2.3 changes */
+span.section-modchooser-link {
+	padding-top: .5em;
+}
+
+/*titles for single sections */
+.course-content .single-section .section-navigation.headingblock {
+	background: #eee url([[pix:theme|bar1]]) repeat-x bottom left;
+	margin-bottom: 0px;
+	border: 1px solid #DDDDDD;
+	border-bottom: 0px;
+    box-shadow: 0 1px 1px #FAFAFA inset;
+    text-shadow: 1px 1px 1px white;
+}
+
+.course-content .single-section ul li.section {
+	margin-top: 0px;
+}
+
+.course-content .single-section .section-navigation .title {
+	font-size: .8em;
+	font-weight: inherit;
+}
+
+.course-content .single-section .section-navigation .mdl-right {
+    font-size: 75%;
+}
+
+.course-content .single-section .section-navigation .mdl-right .rarrow {
+    margin-left: 0.4em;
+    font-size: .6em;
+}
+
+.course-content .single-section .section-navigation .mdl-left {
+	font-size: 75%;
+}
+
+.course-content .single-section .section-navigation .mdl-left .larrow {
+    margin-right: 0.4em;
+    font-size: .7em;
+}

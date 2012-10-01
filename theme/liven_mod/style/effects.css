@@ -1,0 +1,107 @@
+/*css3 transition effects for various moodle areas */
+/*blocks */
+.gecko .block.hidden .content, .safari .block.hidden .content {
+    display: block;
+    
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 0px;
+    min-height:0px;
+    max-height:0px;
+    overflow: hidden;
+    
+    opacity: 0.0;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+   }
+
+.gecko .block .content, .safari .block .content {
+	height: 100%;
+	min-height:10px;
+    max-height:5000px;
+    
+	opacity: 1.0;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+}
+
+/*custom menu, may not work in all situations */
+.custom_menu_submenu.yui3-menu-hidden {
+	opacity: 0.0;
+}
+
+.custom_menu_submenu {
+	opacity: 1.0;
+	-webkit-transition: opacity 0.3s ease-in-out;
+	-moz-transition: opacity 0.3s ease-in-out;
+	transition: opacity 0.3s ease-in-out;
+}
+
+.yui3-menu-content li:hover {
+	-moz-transition:background-color 0.3s ease-in-out;
+	-webkit-transition:background-color 0.3s ease-in-out;
+	transition:background-color 0.3s ease-in-out;
+}
+
+/*settings and nav and categories tree effects */
+.gecko.jsenabled .block_settings .block_tree .collapsed ul, .gecko.jsenabled .block_navigation .block_tree .collapsed ul,  
+.safari.jsenabled .block_settings .block_tree .collapsed ul, .safari.jsenabled .block_navigation .block_tree .collapsed ul,
+.gecko.jsenabled .course_category_tree .category.with_children.collapsed .subcategories, .gecko.jsenabled .course_category_tree .category.with_children.collapsed .courses, .safari.jsenabled .course_category_tree .category.with_children.collapsed .subcategories, .safari.jsenabled .course_category_tree .category.with_children.collapsed .courses
+{
+   display: block;
+   padding-top: 0px;
+   padding-bottom: 0px;
+   
+   height: 0px;
+   min-height:0px;
+   max-height:0px;
+   
+   overflow: hidden;
+   
+    opacity: 0.0;
+    -webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+
+}
+
+.gecko .block_settings .block_tree li ul,  .gecko .block_navigation .block_tree li.depth_2 ul, .safari .block_settings .block_tree li ul,  .safari .block_navigation .block_tree li.depth_2 ul,
+.gecko .course_category_tree .category .courses, .safari .course_category_tree .category .courses  {
+
+	height: 100%;
+	min-height:10px;
+    max-height:5000px;
+    
+	opacity: 1.0;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+}
+
+.tree_item, .tree_item span {
+	outline:none;
+}
+
+/*overlay effects */
+.yui3-overlay {
+	opacity: 1.0;
+	-webkit-transition: opacity 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+}	
+
+.yui3-overlay-hidden {
+    opacity: 0.0;
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+}
+
+/*page content effects */
+#page-content #region-main, .side-pre-only #page-content #region-post {
+    -webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+}
