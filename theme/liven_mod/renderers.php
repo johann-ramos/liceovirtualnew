@@ -1,6 +1,6 @@
 <?php
  
-class theme_liven_mod_core_renderer extends core_renderer {
+class theme_liven_core_renderer extends core_renderer {
 
  protected function render_custom_menu(custom_menu $menu) {
  			
