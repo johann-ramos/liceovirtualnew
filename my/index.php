@@ -156,8 +156,10 @@ new TWTR.Widget({
   height: 100,
   theme: {
     shell: {
-      background: '#03426a',
-      color: '#ffffff'
+      //background: '#03426a',
+      background: '#EDEBDE',
+      //color: '#ffffff'
+      color: '#575756'
     },
     tweets: {
       background: '#ffffff',
