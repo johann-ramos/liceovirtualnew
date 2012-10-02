@@ -7,7 +7,7 @@
  * @param theme_config $theme
  * @return string 
  */
-function liven_process_css($css, $theme) {
+function liven_mod_process_css($css, $theme) {
 	
 	
 	if (!empty($theme->settings->headercolor)) {
