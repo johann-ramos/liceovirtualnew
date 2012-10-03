@@ -1,178 +1,0 @@
-10
-
-dir
-3
-http://mercury/svn/liceovirtualnew/auth
-http://mercury/svn/liceovirtualnew
-
-
-
-2012-06-14T11:38:39.682610Z
-1
-root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-f9563b45-dcfc-4bb1-9a11-3fbd7108bb97
-
-webservice
-dir
-
-none
-dir
-
-mnet
-dir
-
-nologin
-dir
-
-upgrade.txt
-file
-
-
-
-
-2012-06-14T11:46:19.592381Z
-43f8f115ee539259ae17fbb14dd7d4ef
-2012-06-14T11:38:39.682610Z
-1
-root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-371
-
-cas
-dir
-
-index.html
-file
-
-
-
-
-2012-06-14T11:46:19.592381Z
-d41d8cd98f00b204e9800998ecf8427e
-2012-06-14T11:38:39.682610Z
-1
-root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-0
-
-README.txt
-file
-
-
-
-
-2012-06-14T11:46:19.592381Z
-dab85f70e75ddb1678cb4e98c5cc80ee
-2012-06-14T11:38:39.682610Z
-1
-root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5583
-
-pam
-dir
-
-manual
-dir
-
-nntp
-dir
-
-ldap
-dir
-
-pop3
-dir
-
-shibboleth
-dir
-
-db
-dir
-
-imap
-dir
-
-email
-dir
-
-radius
-dir
-
-fc
-dir
-
