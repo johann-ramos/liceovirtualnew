@@ -1,132 +1,0 @@
-10
-
-dir
-3
-http://mercury/svn/liceovirtualnew/question/format
-http://mercury/svn/liceovirtualnew
-
-
-
-2012-06-14T11:38:39.682610Z
-1
-root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-f9563b45-dcfc-4bb1-9a11-3fbd7108bb97
-
-xml
-dir
-
-blackboard
-dir
-
-webct
-dir
-
-examview
-dir
-
-missingword
-dir
-
-upgrade.txt
-file
-
-
-
-
-2012-06-14T11:48:57.976379Z
-cced53083a43e9821f33448f69c19526
-2012-06-14T11:38:39.682610Z
-1
-root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-595
-
-qti_two
-dir
-
-aiken
-dir
-
-blackboard_six
-dir
-
-gift
-dir
-
-learnwise
-dir
-
-multianswer
-dir
-
-README.txt
-file
-
-
-
-
-2012-06-14T11:48:57.976379Z
-a0ba1953de286ddc6f59bbf1093eb8ef
-2012-06-14T11:38:39.682610Z
-1
-root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-597
-
-xhtml
-dir
-

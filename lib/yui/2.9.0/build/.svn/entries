@@ -1,202 +1,0 @@
-10
-
-dir
-3
-http://mercury/svn/liceovirtualnew/lib/yui/2.9.0/build
-http://mercury/svn/liceovirtualnew
-
-
-
-2012-06-14T11:38:39.682610Z
-1
-root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-f9563b45-dcfc-4bb1-9a11-3fbd7108bb97
-
-event-simulate
-dir
-
-storage
-dir
-
-yuitest
-dir
-
-grids
-dir
-
-calendar
-dir
-
-base
-dir
-
-uploader
-dir
-
-button
-dir
-
-colorpicker
-dir
-
-carousel
-dir
-
-imagecropper
-dir
-
-logger
-dir
-
-dom
-dir
-
-reset-fonts-grids
-dir
-
-yahoo
-dir
-
-get
-dir
-
-selector
-dir
-
-event
-dir
-
-profiler
-dir
-
-reset
-dir
-
-container
-dir
-
-charts
-dir
-
-progressbar
-dir
-
-stylesheet
-dir
-
-datasource
-dir
-
-yuiloader
-dir
-
-swf
-dir
-
-connection
-dir
-
-tabview
-dir
-
-history
-dir
-
-element-delegate
-dir
-
-dragdrop
-dir
-
-assets
-dir
-
-menu
-dir
-
-profilerviewer
-dir
-
-event-mouseenter
-dir
-
-reset-fonts
-dir
-
-imageloader
-dir
-
-json
-dir
-
-cookie
-dir
-
-yahoo-dom-event
-dir
-
-utilities
-dir
-
-swfstore
-dir
-
-layout
-dir
-
-animation
-dir
-
-datatable
-dir
-
-slider
-dir
-
-paginator
-dir
-
-editor
-dir
-
-datemath
-dir
-
-swfdetect
-dir
-
-event-delegate
-dir
-
-fonts
-dir
-
-element
-dir
-
-yuiloader-dom-event
-dir
-
-treeview
-dir
-
-resize
-dir
-
-autocomplete
-dir
-

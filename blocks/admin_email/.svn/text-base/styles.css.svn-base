@@ -1,4 +1,0 @@
-#page-blocks-admin_email-index div.region-content table.generaltable {
-   margin: 0 auto 30px auto;
-   width: 70%;
-}

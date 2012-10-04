@@ -1,190 +1,0 @@
-10
-
-dir
-3
-http://mercury/svn/liceovirtualnew/mod
-http://mercury/svn/liceovirtualnew
-
-
-
-2012-06-14T11:38:39.682610Z
-1
-root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-f9563b45-dcfc-4bb1-9a11-3fbd7108bb97
-
-choice
-dir
-
-survey
-dir
-
-url
-dir
-
-lesson
-dir
-
-glossary
-dir
-
-wiki
-dir
-
-upgrade.txt
-file
-
-
-
-
-2012-06-14T11:49:05.824379Z
-c5f3f2c96cf7981f852c2de07216fb4b
-2012-06-14T11:38:39.682610Z
-1
-root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2992
-
-assignment
-dir
-
-data
-dir
-
-index.html
-file
-
-
-
-
-2012-06-14T11:49:05.824379Z
-d41d8cd98f00b204e9800998ecf8427e
-2012-06-14T11:38:39.682610Z
-1
-root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-0
-
-imscp
-dir
-
-folder
-dir
-
-README.txt
-file
-
-
-
-
-2012-06-14T11:49:05.824379Z
-4319e462f7dc748e69c92d6a824fc01a
-2012-06-14T11:38:39.682610Z
-1
-root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1185
-
-page
-dir
-
-workshop
-dir
-
-label
-dir
-
-chat
-dir
-
-scorm
-dir
-
-feedback
-dir
-
-resource
-dir
-
-quiz
-dir
-
-lti
-dir
-
-forum
-dir
-
