@@ -1,44 +1,65 @@
 #!/bin/bash
+# -*- ENCODING: UTF-8 -*-
+#
+# Author: Johann Ramos <johann.ramos.r@gmail.com>
+# <http://liceovirtualnew.wordpress.com/>
+# <https://linuxandsoftwaredevelopment.blogspot.com/>
+#
+# Description: Moodle cron for linux.
+# Instructions: crontab -e
+# to execute every 5 minutes
+# */5 * * * * /path/to/script.sh
+#
 
-#Usuario
-#Al utilizar variable $USER se utilizará el nombre del usuario actual
+echo -e "\nMoodle Cron execution\n"
 
-USUARIO=""
+#-------------------------------------------------------------------------------
+#           Setting Variables
+#-------------------------------------------------------------------------------
 
-#Moodle admin password
-PASS=""
+# Moodle admin password
+pass=""
 
-#Ubicacion del log
-location=""
+# Cluster Server
+#server="example.com"
+server=""
+echo -e "Moodle server: $server"
 
-# SERVER's del cluster
-#Ejemplo SERVERS="thesun.dyndns-server.com"
-SERVERS=""
+# Moodle sites that executes cron
+# sites="moodle moodle2"
+sites=""
+echo -e "Moodle sites: $sites\n"
 
-# Sites de Moodle que hemos de ejecutar el cron
-# Ejemplo SITES="liceovirtualnew liceovirtualold"
-SITES=""
+# Log directory
+# logdir $HOME/moodle/logs
+logdir=""
 
-# Directorio donde se almacenarán los logs.
-LOGDIR=$location/
-
-# Buscamos el nodo del clúster que este disponible
-for SERVER in $SERVERS
- do
- ping -c 1 -w 5 $SERVER &>/dev/null
- if [ $? -ne 0 ] ; then
- HOST=$SERVER
- fi
-done
-
-# Comprobamos que el directorio de logs este creado
-if [ ! -e "$LOGDIR" ]
- then
- mkdir -p "$LOGDIR"
+# Checking if log directory exists
+if [ ! -d "$logdir" ]; then
+    mkdir -p "$logdir"
 fi
 
-# Para cada uno de los sites, ejecutaremos el CRON
-for SITE in $SITES
- do
- wget -q "http://$SERVER/$SITE/admin/cron.php?password=$PASS" -O "$LOGDIR/`date '+%Y-%m-%d_%H:%M:%S'`-$SITE.log"
+#-------------------------------------------------------------------------------
+#           Cron execution
+#-------------------------------------------------------------------------------
+# Searching cluster node available
+for s in $server
+do
+    ping -c 1 -w 5 $s &>/dev/null
+    if [ $? -ne 0 ] ; then
+    host=$s
+    fi
 done
+
+# Cron execution
+for s in $sites
+do
+    echo -n "Cron of $s executed ... "
+    wget -q "http://$server/$s/admin/cron.php?password=$pass" -O "$logdir/`date '+%Y-%m-%d_%H:%M:%S'`-$s.log"
+    echo "done"
+done
+
+echo -e "\nlogs in $logdir"
+echo "All done"
+
+exit
