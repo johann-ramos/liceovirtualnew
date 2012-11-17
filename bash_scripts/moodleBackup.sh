@@ -1,82 +1,112 @@
 #!/bin/bash
 # -*- ENCODING: UTF-8 -*-
+#
+# Author: Johann Ramos <johann.ramos.r@gmail.com>
+# <http://liceovirtualnew.wordpress.com/>
+# <https://linuxandsoftwaredevelopment.blogspot.com/>
+#
+# Description: Moodle Backup.This scripts backups up the moodle folders and dumps the DB
+# to a selected locations. You have to set the Mysql user and password, the folders to backup
+# and the destiny folder before execution.
+#
 
-####### CONFIGURACION ######
-#Nombre del usuario que quiere realizar el respaldo
-systemUser=""
+echo -e "\nBackup Moodle: DB, moodledata and www/moodle\n"
+sudo echo -e "Sudo pass entered\n"
 
-# MySQL:
-mysqlUser=""
-mysqlPass=""
+#-------------------------------------------------------------------------------
+#           Setting up Mysql Variables
+#-------------------------------------------------------------------------------
+#DB user
+mysqlUser="user"
+#DB pass
+mysqlPass="pass"
+#DB to backup
+moodleDB=(db1 db2)
 
-# Directorio donde se almacenaran los respaldos:
-backup=""
-
-# Directorios a respaldar:
-#carpeta[0]="/path/to/moodledata/"
-#carpeta[1]="/path/to/www/folder/"
-carpeta[0]=""
-carpeta[1]=""
-
-# Configuracion de fecha
+#-------------------------------------------------------------------------------
+#           Date
+#-------------------------------------------------------------------------------
 fecha=$(date '+%Y-%m-%d')
 
-backupCurrent=$backup$fecha
+#-------------------------------------------------------------------------------
+#           Folders to Backup
+#-------------------------------------------------------------------------------
+#Folders to backup
+folder[0]="/path/to/moodledata/"
+folder[1]="/path/to/moodle/"
+echo -e "\nFolders to backup:"
 
-####### FIN CONFIGURACION #######
+for i in ${folder[@]}; do
+    echo $i
+done
 
-temp="$PWD/backup.tmp"
-echo "Inicio del Respaldo..."
+#-------------------------------------------------------------------------------
+#           Backup Locations
+#-------------------------------------------------------------------------------
+#Backup Location
+backup="/path/to/backup/folder/"
 
-#Comprueba si existen los directorios de destino, sino los crea
-if [ ! -d "$backup" ]; then
-    mkdir "$backup"
+#Checks if $backup exists otherway creates folder
+if [ ! -d $backup ]; then
+    mkdir -p $backup
 fi
+
+echo -e "\nBackup Location: $backup"
+
+backupCurrent=$backup$fecha
 
 if [ ! -d "$backupCurrent" ]; then
     mkdir "$backupCurrent"
 fi
 
-if [ ! -d "$backupCurrent/mysql" ]; then
-    mkdir "$backupCurrent/mysql"
-fi
+mkdir "$backupCurrent/mysql"
 
-echo "-------------------------------------------------------------------------------"
-echo -ne "Preparando el respaldo de BD MySQL ... "
-databases=( $(mysql -u"$mysqlUser" -p"$mysqlPass" --skip-column-names --batch -e "show databases;" 2>"$temp") );
-echo "Se han encontrado ${#databases[@]} BD.";
+temp="$PWD/backup.tmp"
+
+#-------------------------------------------------------------------------------
+#           DB Dump
+#-------------------------------------------------------------------------------
+
+#DBs to backup
+databases=($(mysql -u"$mysqlUser" -p"$mysqlPass" --skip-column-names --batch -e "show databases;" 2>"$temp"));
 for i in ${databases[@]}; do
-    if [ $i != "information_schema" ] && [ $i != "mysql" ] && [ $i != "phpmyadmin" ] && [ $i != "performance_schema" ]; then
-        echo -ne "Respaldando BD $i ... "
-        mysql -u"$mysqlUser" -p"$mysqlPass" -D "$i" --skip-column-names --batch -e "optimize table $i" 2>"$temp" >/dev/null
-	    mysqldump -u"$mysqlUser" -p"$mysqlPass" --opt $i | bzip2 -c > "$backupCurrent/mysql/$i.sql.bz2"
-	    echo "Finalizado."
-	fi
+    for j in ${moodleDB[@]}; do
+        if [ $i = $j ]; then
+        echo -ne "\nBacking up db: $i ..."
+            mysql -u"$mysqlUser" -p"$mysqlPass" -D "$i" --skip-column-names --batch -e "optimize table $i" 2>"$temp" >/dev/null
+            mysqldump -u"$mysqlUser" -p"$mysqlPass" --opt $i | bzip2 -c > "$backupCurrent/mysql/$i.sql.bz2"
+            echo -n "done"
+        fi
+    done
 done
+echo -e "\nDB DUMP COMPLETE!\n"
 
-echo "-------------------------------------------------------------------------------"
-for f in "${carpeta[@]}"; do
+#-------------------------------------------------------------------------------
+#           Folders Backup
+#-------------------------------------------------------------------------------
+
+#Folder compression
+for f in "${folder[@]}"; do
     if [ -d "$f" ]; then
-        echo -ne "Respaldando directorio $f ... "
+        echo -ne "Backing up folder: $f ..."
         d=$(basename $f)
         d="$d.tar.bz2"
     elif [ -f "$f" ]; then
-        echo -ne "Respaldando archivo $f ... "
+        echo -ne "Backing up file: $f ..."
         d=${f##*/}
         d="$d.tar.bz2"
     else
-        echo "Error! $f No se ha encontrado."
+        echo "Error! $f Not found"
         exit 1
     fi
     sudo tar -cjf "$backupCurrent/$d" -C / ${f:1}
-    echo "Finalizado."
-    sudo chown "$systemUser":"$systemUser" "$backupCurrent/$d"
+    echo "done"
+    sudo chown "$USER":"$USER" "$backupCurrent/$d"
 done
+echo -e "FOLDER BACKUP COMPLETE!\n"
 
 rm -f "$temp"
 
-echo "---------------------"
-echo "Respaldo Completado!"
-echo "---------------------"
+echo -e "ALL DONE\n"
 
-exit 0
+exit
