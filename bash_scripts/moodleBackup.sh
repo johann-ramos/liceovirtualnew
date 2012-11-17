@@ -109,8 +109,4 @@ rm -f "$temp"
 
 echo -e "ALL DONE\n"
 
-<<<<<<< HEAD
 exit
-=======
-exit
->>>>>>> ca1d69e118ef7122f31274db47282800ef06db92
