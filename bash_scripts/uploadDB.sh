@@ -1,29 +1,52 @@
 #!/bin/bash
 # -*- ENCODING: UTF-8 -*-
-#Script que restaura las bd de una carpeta al servidor
+#
+# Author: Johann Ramos <johann.ramos.r@gmail.com>
+# <http://liceovirtualnew.wordpress.com/>
+# <https://linuxandsoftwaredevelopment.blogspot.com/>
+#
+# Description: This script restore moodle with the files from the previous
+# backup script.
+#
 
-#MySQL
+echo -e "\nRestore moodle\n"
+
+#-------------------------------------------------------------------------------
+#           Setting Variables
+#-------------------------------------------------------------------------------
+# Mysql user
 mysqlUser=""
+
+# Mysql pass
 mysqlPass=""
-location=""
 
-for i in "$location"/*
+# Mysql server
+mysqlServer=""
+
+# db.sql folder location
+dbLocation=""
+
+#-------------------------------------------------------------------------------
+#           Restore
+#-------------------------------------------------------------------------------
+
+for i in "$dbLocation"/*
 do
-    echo "Preparando la restauracion de BD ... "
+    echo " Preparing Restoration... "
     bunzip2 -k $i
-    archivo=$(echo ${i%%.bz2} | sed 's#^.*/##')
+    file=$(echo ${i%%.bz2} | sed 's#^.*/##')
     
-    nombre=$(echo ${archivo%%.sql})
-    echo $nombre
+    name=$(echo ${file%%.sql})
+    echo $name
 
-    echo "Creando BD $archivo..."
-    mysqladmin -h localhost -u"$mysqlUser" -p"$mysqlPass" create $nombre
-    echo "Finalizado!"
+    echo "Creating db $file..."
+    mysqladmin -h localhost -u"$mysqlUser" -p"$mysqlPass" create $name
+    echo "done"
     echo "-------------------------------------------------------------------------"
-    echo "Subiendo BD $archivo"
-    mysql -h localhost -u"$mysqlUser" -p"$mysqlPass" $nombre < $location/$archivo
-    echo "Finalizado!"
+    echo "Uploading $file db"
+    mysql -h $mysqlServer -u"$mysqlUser" -p"$mysqlPass" $name < $dbLocation/$file
+    echo "done"
 done
-echo "BD de $location restaurada!"
+echo "DB $dbLocation restored!"
 
 exit
