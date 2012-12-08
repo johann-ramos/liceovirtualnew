@@ -466,11 +466,11 @@ class core_renderer extends renderer_base {
             $context = get_context_instance(CONTEXT_COURSE, $course->id);
             
 //Nombre completo en el footer--------------------------------------------------
-                                $nombre=ucwords($USER->firstname);
-                                $segundoNombre=ucwords($USER->middlename);
-                                $apellido=ucwords($USER->lastname);
-                                $segundoApellido=ucwords($USER->secondlastname);
-                                $nomCompleto=$nombre." ".$segundoNombre." ".$apellido." ".$segundoApellido;
+            $nombre=ucwords($USER->firstname);
+            $segundoNombre=ucwords($USER->middlename);
+            $apellido=ucwords($USER->lastname);
+            $segundoApellido=ucwords($USER->secondlastname);
+            $nomCompleto=$nombre." ".$segundoNombre." ".$apellido." ".$segundoApellido;
 
 //------------------------------------------------------------------------------    
     

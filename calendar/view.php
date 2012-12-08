@@ -149,7 +149,14 @@ switch($view) {
 //Link to calendar export page
 echo $OUTPUT->container_start('bottom');
 if (!empty($CFG->enablecalendarexport)) {
+
+//Boton volver al curso
+    echo '<br /><div class="buttons">';
+    echo $OUTPUT->single_button(new moodle_url('/course/view.php?id='.$course->id, array('course'=>$courseid)), "Volver al Curso");
+    
     echo $OUTPUT->single_button(new moodle_url('export.php', array('course'=>$courseid)), get_string('exportcalendar', 'calendar'));
+    echo '</div>';
+    
     if (isloggedin()) {
     
         $authtoken = sha1($USER->id . $USER->password . $CFG->calendar_exportsalt);
@@ -157,10 +164,7 @@ if (!empty($CFG->enablecalendarexport)) {
         $icon = html_writer::empty_tag('img', array('src'=>$OUTPUT->pix_url('i/ical'), 'height'=>'14', 'width'=>'36', 'alt'=>get_string('ical', 'calendar'), 'title'=>get_string('quickdownloadcalendar', 'calendar')));
 
         echo html_writer::tag('a', $icon, array('href'=>$link));
-
     }
-        //Boton volver al curso
-    echo $OUTPUT->single_button(new moodle_url('/course/view.php?id='.$course->id, array('course'=>$courseid)), "Volver al Curso");
     
     //$homelink = '<div class="homelink"><a '.$CFG->frametarget.' href="'.$CFG->wwwroot.'/course/view.php?id='.$course->id.'">'.'Volver a '.format_string($course->shortname).'</a></div>';
     //echo $homelink;

@@ -38,8 +38,7 @@ echo $OUTPUT->doctype() ?>
 <?php echo $OUTPUT->standard_top_of_body_html() ?>
 
 <div id="page">
-	<div id="wrapper">
-	
+	<div id="wrapper">	
 <!-- start OF header -->
 		<div id="page-header" class="page-header-home">
 		<div id="page-header-inner">

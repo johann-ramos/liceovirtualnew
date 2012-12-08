@@ -98,7 +98,6 @@ class block_navigation extends block_base {
     function instance_can_be_docked() {
         return (parent::instance_can_be_docked() && (empty($this->config->enabledock) || $this->config->enabledock=='yes'));
     }
-
     function get_required_javascript() {
         global $CFG;
         user_preference_allow_ajax_update('docked_block_instance_'.$this->instance->id, PARAM_INT);
