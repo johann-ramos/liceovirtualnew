@@ -144,7 +144,7 @@ if ($currentpage->userid == 0) {
 echo $OUTPUT->header();
 
 ?>
-<!-- Twitter timeline -->
+<!-- Twitter timeline block -->
 <div id="twtl" align="center">
 <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
 <script>
