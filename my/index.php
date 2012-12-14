@@ -178,6 +178,7 @@ new TWTR.Widget({
 </script>
 &nbsp;
 </div>
+<!-- Twitter timeline block end -->
 <?php
 
 echo $OUTPUT->blocks_for_region('content');
