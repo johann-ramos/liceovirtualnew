@@ -118,7 +118,7 @@ function useredit_shared_definition(&$mform, $editoroptions = null) {
     $mform->setType('rut', PARAM_TEXT);
     //$mform->addRule('rut', get_string('missingrut'), 'required', null, 'server');
     $mform->addRule('rut', $strrequired, 'required', null, 'client');
-    $mform->addRule('rut', 'RUT Inválido', 'callback','EsRut', 'client');
+    $mform->addRule('rut', 'RUT Inválido JS', 'callback','EsRut', 'client');
     //$mform->addRule('rut', 'RUT Inválido', 'callback','rutValidation', 'client');
     
                 

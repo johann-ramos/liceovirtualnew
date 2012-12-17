@@ -108,7 +108,7 @@ function get_admins() {
 function search_users($courseid, $groupid, $searchtext, $sort='', array $exceptions=null) {
     global $DB;
 
-    $fullname  = $DB->sql_fullname('u.firstname', 'u.lastname');
+    $fullname  = $DB->sql_fullname('u.firstname', 'u.middlename', 'u.lastname', 'u.secondlastname');
 
     if (!empty($exceptions)) {
         list($exceptions, $params) = $DB->get_in_or_equal($exceptions, SQL_PARAMS_NAMED, 'ex', false);
@@ -129,7 +129,7 @@ function search_users($courseid, $groupid, $searchtext, $sort='', array $excepti
     $params['search2'] = "%$searchtext%";
 
     if (!$courseid or $courseid == SITEID) {
-        $sql = "SELECT u.id, u.firstname, u.lastname, u.email
+        $sql = "SELECT u.id, u.firstname, u.middlename, u.lastname, u.secondlastname, u.email
                   FROM {user} u
                  WHERE $select
                        $except
@@ -138,7 +138,7 @@ function search_users($courseid, $groupid, $searchtext, $sort='', array $excepti
 
     } else {
         if ($groupid) {
-            $sql = "SELECT u.id, u.firstname, u.lastname, u.email
+            $sql = "SELECT u.id, u.firstname, u.middlename, u.lastname, u.secondlastname, u.email
                       FROM {user} u
                       JOIN {groups_members} gm ON gm.userid = u.id
                      WHERE $select AND gm.groupid = :groupid
@@ -151,7 +151,7 @@ function search_users($courseid, $groupid, $searchtext, $sort='', array $excepti
             $context = get_context_instance(CONTEXT_COURSE, $courseid);
             $contextlists = get_related_contexts_string($context);
 
-            $sql = "SELECT u.id, u.firstname, u.lastname, u.email
+            $sql = "SELECT u.id, u.firstname, u.middlename, u.lastname, u.secondlastname, u.email
                       FROM {user} u
                       JOIN {role_assignments} ra ON ra.userid = u.id
                      WHERE $select AND ra.contextid $contextlists
@@ -296,12 +296,12 @@ function get_users_listing($sort='lastaccess', $dir='ASC', $page=0, $recordsperp
     $extrafields = '';
     if ($extracontext) {
         $extrafields = get_extra_user_fields_sql($extracontext, '', '',
-                array('id', 'username', 'email', 'firstname', 'lastname', 'city', 'country',
+                array('id', 'username', 'email', 'firstname', 'middlename', 'lastname', 'secondlastname', 'city', 'country',
                 'lastaccess', 'confirmed', 'mnethostid'));
     }
 
     // warning: will return UNCONFIRMED USERS
-    return $DB->get_records_sql("SELECT id, username, email, firstname, lastname, city, country,
+return $DB->get_records_sql("SELECT id, username, email, firstname, middlename, lastname, secondlastname, city, country,
                                         lastaccess, confirmed, mnethostid$extrafields
                                    FROM {user}
                                   WHERE $select

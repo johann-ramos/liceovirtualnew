@@ -119,7 +119,7 @@
     // Carry on with the user listing
     $context = context_system::instance();
     $extracolumns = get_extra_user_fields($context);
-    $columns = array_merge(array('firstname', 'lastname'), $extracolumns, array(/*'username',*/ 'rut', 'city', 'lastaccess'));
+    $columns = array_merge(array('firstname', 'middlename', 'lastname', 'secondlastname'), $extracolumns, array(/*'username',*/ 'rut', 'city', 'lastaccess'));
     //$columns = array_merge(array('rut','firstname', 'middlename', 'lastname', 'secondlastname'), $extracolumns, array('city', 'lastaccess'));
     foreach ($columns as $column) {
         $string[$column] = get_user_field_name($column);
@@ -200,14 +200,16 @@
 
         $override = new stdClass();
         $override->firstname = 'firstname';
+        $override->middlename = 'middlename';
         $override->lastname = 'lastname';
+        $override->secondlastname = 'secondlastname';
         $fullnamelanguage = get_string('fullnamedisplay', '', $override);
         if (($CFG->fullnamedisplay == 'firstname lastname') or
             ($CFG->fullnamedisplay == 'firstname') or
             ($CFG->fullnamedisplay == 'language' and $fullnamelanguage == 'firstname lastname' )) {
-            $fullnamedisplay = "$firstname / $lastname";
+            $fullnamedisplay = "$firstname $middlename / $lastname $secondlastname";
         } else { // ($CFG->fullnamedisplay == 'language' and $fullnamelanguage == 'lastname firstname')
-            $fullnamedisplay = "$lastname / $firstname";
+            $fullnamedisplay = "$lastname $secondlastname / $firstname $middlename";
         }
         $table = new html_table();
         $table->head = array ();
@@ -305,7 +307,8 @@
             } else {
                 $strlastaccess = get_string('never');
             }
-            $fullname = fullname($user, true);
+            //$fullname = fullname($user, true);
+            $fullname = $user->firstname." ".$user->middlename." ".$user->lastname." ".$user->secondlastname;
 
             $row = array ();
             //Nuevo Campo username---------
@@ -346,8 +349,6 @@
             echo $OUTPUT->heading('<a href="'.$securewwwroot.'/user/editadvanced.php?id=-1">'.get_string('addnewuser').'</a>');
         }
     }
-
-echo get_string('firstname');
 
     echo $OUTPUT->footer();
 

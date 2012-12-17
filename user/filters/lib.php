@@ -34,7 +34,7 @@ class user_filtering {
         }
 
         if (empty($fieldnames)) {
-            $fieldnames = array('realname'=>0, 'lastname'=>0, 'firstname'=>1, 'rut'=>0, 'email'=>1, 'city'=>1, 'country'=>1,
+            $fieldnames = array(/*'realname'=>1,*/ 'firstname'=>0, 'middlename'=>1, 'lastname'=>0, 'secondlastname'=>1, 'rut'=>0, 'email'=>1, 'city'=>1, 'country'=>1,
                                 'confirmed'=>1, 'profile'=>1, 'courserole'=>1, 'systemrole'=>1, 'cohort'=>1,
                                 'firstaccess'=>1, 'lastaccess'=>1, 'neveraccessed'=>1, 'timemodified'=>1,
                                 'nevermodified'=>1, 'username'=>1, 'auth'=>1, 'mnethostid'=>1);
@@ -103,9 +103,11 @@ class user_filtering {
 
         switch ($fieldname) {
             case 'username':    return new user_filter_text('username', get_string('username'), $advanced, 'username');
-            case 'realname':    return new user_filter_text('realname', get_string('fullnameuser'), $advanced, $DB->sql_fullname());
+            //case 'realname':    return new user_filter_text('realname', get_string('fullnameuser'), $advanced, $DB->sql_fullname());
             case 'lastname':    return new user_filter_text('lastname', get_string('lastname'), $advanced, 'lastname');
+            case 'secondlastname':    return new user_filter_text('secondlastname', get_string('secondlastname'), $advanced, 'secondlastname');
             case 'firstname':    return new user_filter_text('firstname', get_string('firstname'), $advanced, 'firstname');
+            case 'middlename':    return new user_filter_text('middlename', get_string('middlename'), $advanced, 'middlename');
             case 'rut':    return new user_filter_text('rut', get_string('rut'), $advanced, 'rut');
             case 'email':       return new user_filter_text('email', get_string('email'), $advanced, 'email');
             case 'city':        return new user_filter_text('city', get_string('city'), $advanced, 'city');
