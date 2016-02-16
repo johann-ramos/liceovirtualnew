@@ -1,4 +1,4 @@
-liceovirtualnew
+liceovirtual
 ===============
 
 Liceo Virtual New - versión final
