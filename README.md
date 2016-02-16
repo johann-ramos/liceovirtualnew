@@ -20,5 +20,4 @@ Instalación
 4. Listo para utilizar
 
 
-this project should be in rails
-
+this project should be in rails, and modified functionalities
